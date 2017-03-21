@@ -17,3 +17,8 @@ h2 {color: #99c460
     padding-top: 20px;
     padding-bottom: 20px;
 }
+
+body {
+    background-image:url(https://wordpress.com/wp-content/themes/a8c/verticals/music/images/header.jpg?m=1351292325h);
+    background: center;
+}
