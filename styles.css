@@ -1,9 +1,9 @@
-﻿p {color: blue;
-   font-family: arial;
+﻿p {font-family: arial;
    text-align: left;
 }
 
-h1 {text-align: center;
+h1 {color: #66ab4d;
+    text-align: center;
     font-family: arial;
     font-size: 4.0em;
     padding-top: 20px;
@@ -11,7 +11,8 @@ h1 {text-align: center;
     margin: 50px 50px 50px 50px;
 }
 
-h2 {font-family: arial;
+h2 {color: #99c460
+    font-family: arial;
     font-size: 2.0em;
     padding-top: 20px;
     padding-bottom: 20px;
