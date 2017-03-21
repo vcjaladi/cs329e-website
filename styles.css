@@ -20,9 +20,10 @@ h2 {color: #99c460
 
 table {
     border-collapse: collapse;
-    tr:nth-child(even) {background-color: #e4eec1}
+
 }
 
 table, th, td {
     border-bottom: 1px solid #ddd;
+    tr:nth-child(even) {background-color: #e4eec1}
 }
