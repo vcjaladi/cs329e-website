@@ -17,3 +17,11 @@ h2 {color: #99c460
     padding-top: 20px;
     padding-bottom: 20px;
 }
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
