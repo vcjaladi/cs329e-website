@@ -1,4 +1,9 @@
-﻿p {
+﻿b {
+    vertical-align: middle;
+    background-color:#d3d3d3;
+}
+
+p {
     font-family: arial;
    text-align: left;
 }
