@@ -1,5 +1,5 @@
 ﻿body {
-    text-align: center
+    text-align: center;
 }
 
 p {
@@ -36,8 +36,7 @@ table, th, td {
     text-align: center;
 }
 
-tr:nth-child(even) {background-color: #e4eec1}
-tr:nth-child(odd) {background-color: #d8ffb7}
+tr:nth-child(odd) {background-color: #e4eec1}
 
 ul {
     border: 1px solid #e7e7e7;
