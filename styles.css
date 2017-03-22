@@ -38,7 +38,6 @@ tr:nth-child(even) {background-color: #e4eec1}
 ul {
     position: fixed;
     top: 0;
-    width: 100%;
     border: 1px solid #e7e7e7;
     list-style-type: none;
     margin: 0;
