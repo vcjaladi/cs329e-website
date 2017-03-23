@@ -1,0 +1,970 @@
+commit 1f18d6648fa80f73cb884f686858e99582a26a95
+Author: Justin Meunier <Justin Meunier>
+Date:   Thu Mar 23 16:27:06 2017 -0500
+
+    Another edit to the about page
+
+commit 98b31460c2336b0551f158bf11307209129f4336
+Author: Justin Meunier <Justin Meunier>
+Date:   Thu Mar 23 16:24:51 2017 -0500
+
+    Edited About page
+
+commit 946cd85a614f6b222059e569ec531ce94b51f24d
+Author: Justin Meunier <Justin Meunier>
+Date:   Thu Mar 23 16:19:32 2017 -0500
+
+    Fixed javascript buttons
+
+commit 4093172e04cddce570a095b9f4ced4e1afbd138b
+Author: Justin Meunier <Justin Meunier>
+Date:   Thu Mar 23 16:14:35 2017 -0500
+
+    Added javascript to sets page
+
+commit 99424dc3d5d0d059176bdcfca18bb77df302a7c8
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Thu Mar 23 16:05:31 2017 -0500
+
+    add hidden class to css
+
+commit 0644ca2479d56e601d8098da3b39fbbb895f2193
+Author: Romit Barua <romitbaruagmailcom@wireless-10-147-112-28.public.utexas.edu>
+Date:   Thu Mar 23 15:44:50 2017 -0500
+
+    grammer
+
+commit c8e354dcf1a0dc98ad125a060dd37614f0819dfe
+Author: Romit Barua <romitbaruagmailcom@wireless-10-147-112-28.public.utexas.edu>
+Date:   Thu Mar 23 15:38:41 2017 -0500
+
+    edited about
+
+commit 38bfd1b5e710e8eff656992818eae9af79dcdad1
+Author: Romit Barua <romitbaruagmailcom@wireless-10-147-112-28.public.utexas.edu>
+Date:   Thu Mar 23 15:36:48 2017 -0500
+
+    added about page
+
+commit 0a1529a10d494943701a639627f006e12dbb9038
+Author: Tanner Mierl <Tanner Mierl>
+Date:   Thu Mar 23 14:43:17 2017 -0500
+
+    fixed my fixes of the venue pages
+
+commit 981c543f4c778a46873b0146f217f5afcadd71a5
+Author: Tanner Mierl <Tanner Mierl>
+Date:   Thu Mar 23 14:39:58 2017 -0500
+
+    fixed some formatting on the venues pages
+
+commit 87515fda9df49e1886e060028cf766ea0cb049fb
+Author: Justin Meunier <Justin Meunier>
+Date:   Thu Mar 23 14:32:29 2017 -0500
+
+    Fixed MSG image link
+
+commit e11c2220b1617b8b8a7ab9f404aaa3f863134e18
+Author: Tanner Mierl <Tanner Mierl>
+Date:   Wed Mar 22 23:02:24 2017 -0500
+
+    one too few periods
+
+commit b9d278f1a5423ceb70f9a726aaab70781c8cc135
+Author: Tanner Mierl <Tanner Mierl>
+Date:   Wed Mar 22 23:00:16 2017 -0500
+
+    a fix for the icon showing on pages in a subdirectory
+
+commit 057ff205b9060dc40475ddc4df63b3d7aee856f3
+Author: Tanner Mierl <Tanner Mierl>
+Date:   Wed Mar 22 22:54:54 2017 -0500
+
+    added icon to all the pages
+
+commit 3f925dfb91557c0f0ee4af88003e6c1a97b94609
+Author: Tanner Mierl <Tanner Mierl>
+Date:   Wed Mar 22 22:50:29 2017 -0500
+
+    chose a better icon
+
+commit 31cd25331f8aff1f081a9de6b4eb6f04ae8a85a8
+Author: Tanner Mierl <Tanner Mierl>
+Date:   Wed Mar 22 22:42:28 2017 -0500
+
+    cropped logo image so it would appear at a good size
+
+commit 932d622e04a5527d2325d4e2162316043b0e97c2
+Author: Tanner Mierl <Tanner Mierl>
+Date:   Wed Mar 22 22:40:41 2017 -0500
+
+    edited logo size
+
+commit cc3788bacfad27be39a2e289cadfc9e7d87a1e00
+Author: Tanner Mierl <Tanner Mierl>
+Date:   Wed Mar 22 22:38:53 2017 -0500
+
+    logo 3rd try
+
+commit fdb889bdbee4e4e2226fcf825e86a9688946b004
+Author: Tanner Mierl <Tanner Mierl>
+Date:   Wed Mar 22 22:35:35 2017 -0500
+
+    fixed logo hopefully
+
+commit 81b0b92b54ccf1436ea925de5fd07f422d07c9ee
+Author: Tanner Mierl <Tanner Mierl>
+Date:   Wed Mar 22 22:33:05 2017 -0500
+
+    added a logo
+
+commit 0deac1f020bd184012e5f11a482981c965f92f5f
+Author: Tanner Mierl <Tanner Mierl>
+Date:   Wed Mar 22 22:08:11 2017 -0500
+
+    bolded some text
+
+commit b7c141414b68b5ee8ffd14a1566c16ad0add311e
+Author: Tanner Mierl <Tanner Mierl>
+Date:   Wed Mar 22 22:07:14 2017 -0500
+
+    finished text formatting on the sets pages
+
+commit b2758e96dd90286253eeea28e67b8e9ab72f88a1
+Author: Ryan <thisisryan55@gmail.com>
+Date:   Wed Mar 22 20:00:25 2017 -0500
+
+    ryan about 2
+
+commit 8490ba95b440df257b34170a57947811bac11e0c
+Author: Ryan <thisisryan55@gmail.com>
+Date:   Wed Mar 22 19:56:53 2017 -0500
+
+    ryan's about
+
+commit c16c984d2f149381b59dda618f0bb819edaf5d88
+Merge: 640e142 8170394
+Author: Justin Meunier <Justin Meunier>
+Date:   Wed Mar 22 17:08:44 2017 -0500
+
+    Merge branch 'master' of https://github.com/vcjaladi/vcjaladi.github.io
+
+commit 640e14278a15512dda8c9e8c0c0f612ba50e3a8b
+Author: Justin Meunier <Justin Meunier>
+Date:   Wed Mar 22 17:08:18 2017 -0500
+
+    Fixed Youtube links
+
+commit 81703948dd8e7b9200ed1162a14c4cf6bf6953aa
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Wed Mar 22 17:07:48 2017 -0500
+
+    update tools on about page
+
+commit 2a7efbc0811f3e4610b31d673e86bdd2cc1791d4
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Wed Mar 22 17:06:29 2017 -0500
+
+    varuns about page
+
+commit 4efb04f633e6d273638b21e1697182c3fc038407
+Author: LAPTOP-99DFSPT0\Tanner <tanman15@gmail.com>
+Date:   Wed Mar 22 17:04:52 2017 -0500
+
+    Tanner's about me
+
+commit 015aba0158f61ef8be9947e31f63c6578645cdbd
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Wed Mar 22 16:57:48 2017 -0500
+
+    add text to splash
+
+commit 1d78f37dfb6971b28ee135c4d26b6473a05837f4
+Author: LAPTOP-99DFSPT0\Tanner <tanman15@gmail.com>
+Date:   Wed Mar 22 16:54:44 2017 -0500
+
+    fixed formatting on Coldplay set pages
+
+commit 38e0ac3a5c3f25a2bc780431306aa1f1ac444e27
+Merge: 87fc01a 573709b
+Author: Justin Meunier <Justin Meunier>
+Date:   Wed Mar 22 16:51:15 2017 -0500
+
+    About page template
+
+commit 87fc01a1a732fc24fe797a4395b106c9657004c9
+Author: Justin Meunier <Justin Meunier>
+Date:   Wed Mar 22 16:49:13 2017 -0500
+
+    About page template
+
+commit 573709b8cd261357772e8c3f068f5b4d522559ff
+Merge: 396cab7 ab0f51f
+Author: LAPTOP-99DFSPT0\Tanner <tanman15@gmail.com>
+Date:   Wed Mar 22 16:42:40 2017 -0500
+
+    Merge branch 'master' of https://github.com/vcjaladi/vcjaladi.github.io
+
+commit 396cab7788fc8578d34ea1c5fb244e738b154d71
+Author: LAPTOP-99DFSPT0\Tanner <tanman15@gmail.com>
+Date:   Wed Mar 22 16:42:29 2017 -0500
+
+    added line breaks and bolding to Coldplay Glastonbury set page
+
+commit ab0f51f8214ed90daaf952951020c998821bd195
+Author: Romit Barua <romitbaruagmailcom@wireless-10-147-112-28.public.utexas.edu>
+Date:   Wed Mar 22 16:39:43 2017 -0500
+
+    fixed the metallica set youtube link
+
+commit 7e595bd08671ea8bf9302e0b94d1b49051687d03
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Wed Mar 22 16:38:00 2017 -0500
+
+    adjust titles on model pages
+
+commit 052e51b56cfbc114ed61fd2849b515716e40446d
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Wed Mar 22 16:33:59 2017 -0500
+
+    css updates
+
+commit 9127eae4c8c3314f3434acd6fad3218c749c5f13
+Merge: c1dc1c7 29698bf
+Author: LAPTOP-99DFSPT0\Tanner <tanman15@gmail.com>
+Date:   Wed Mar 22 16:33:53 2017 -0500
+
+    Merge branch 'master' of https://github.com/vcjaladi/vcjaladi.github.io
+
+commit c1dc1c780046f0d9edd74dfd8c43c2815d9296b7
+Author: LAPTOP-99DFSPT0\Tanner <tanman15@gmail.com>
+Date:   Wed Mar 22 16:33:29 2017 -0500
+
+    fixed Radiohead at Worth Farm set
+
+commit 29698bfd0febaf7214e1df72760772a20ac85da7
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Wed Mar 22 16:31:10 2017 -0500
+
+    resize slpash image
+
+commit c29c557c5262f3e72e48ff406741928408cb9918
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Wed Mar 22 16:29:36 2017 -0500
+
+    css fix
+
+commit 281297c9fc043bf7aa30075b709b86ef620c0f79
+Merge: 99bcad2 78b680e
+Author: LAPTOP-99DFSPT0\Tanner <tanman15@gmail.com>
+Date:   Wed Mar 22 16:29:18 2017 -0500
+
+    Merge branch 'master' of https://github.com/vcjaladi/vcjaladi.github.io
+
+commit 99bcad25fd89b8a8a84b5e867da23936dd0b5c82
+Author: LAPTOP-99DFSPT0\Tanner <tanman15@gmail.com>
+Date:   Wed Mar 22 16:29:03 2017 -0500
+
+    fixed Radiohead at MSG set
+
+commit 7fc4dcb964aca0e4ae88f15faa85a5ebe5b595ce
+Author: LAPTOP-99DFSPT0\Tanner <tanman15@gmail.com>
+Date:   Wed Mar 22 16:27:37 2017 -0500
+
+    fixed Metallica rock in rio set
+
+commit 78b680ee935738de534d58c4680b3a1ef826d884
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Wed Mar 22 16:26:22 2017 -0500
+
+    css updates
+
+commit f09c2c94afeacd528fbbf94aa1b577993b731e5b
+Author: LAPTOP-99DFSPT0\Tanner <tanman15@gmail.com>
+Date:   Wed Mar 22 16:25:44 2017 -0500
+
+    fixed Coldplay in the Park set
+
+commit 19215028560230d5693a5f5442c88adb7473b587
+Author: LAPTOP-99DFSPT0\Tanner <tanman15@gmail.com>
+Date:   Wed Mar 22 16:23:35 2017 -0500
+
+    fixed Coldplay Rock in Rio set
+
+commit 08da89c3c01ac4fc9eb422ed9401cdeac0b224f3
+Author: LAPTOP-99DFSPT0\Tanner <tanman15@gmail.com>
+Date:   Wed Mar 22 16:20:11 2017 -0500
+
+    fixed set colplay glastonbury
+
+commit 299318615d0d13d86b9624d6b04e9a3446ff6e00
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Wed Mar 22 16:17:08 2017 -0500
+
+    splash image
+
+commit 2db03d974b85a8c67a711bdf773fc254d2581733
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Wed Mar 22 16:14:07 2017 -0500
+
+    color changes
+
+commit cb64934e6dda07cc1c86bab7ac63a0b4428c364f
+Author: LAPTOP-99DFSPT0\Tanner <tanman15@gmail.com>
+Date:   Wed Mar 22 16:16:01 2017 -0500
+
+    fixed radiohead page
+
+commit d8bba5d68696efd872072671a12283f7a9b1b27e
+Merge: 786a669 af6b0ae
+Author: LAPTOP-99DFSPT0\Tanner <tanman15@gmail.com>
+Date:   Wed Mar 22 16:14:03 2017 -0500
+
+    Merge branch 'master' of https://github.com/vcjaladi/vcjaladi.github.io
+
+commit 786a6698dfdde5fe677ff0049184a37995948472
+Author: LAPTOP-99DFSPT0\Tanner <tanman15@gmail.com>
+Date:   Wed Mar 22 16:13:51 2017 -0500
+
+    fixed Metallica page
+
+commit 710afc70ba6b8f02eface720a0254755de0c6352
+Author: LAPTOP-99DFSPT0\Tanner <tanman15@gmail.com>
+Date:   Wed Mar 22 16:11:32 2017 -0500
+
+    fixed colplay page
+
+commit af6b0ae4fee241f866874eeb87188033211f795f
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Wed Mar 22 16:10:25 2017 -0500
+
+    body css
+
+commit 28d8782742fac27a517bee9c49d17d60e4b7bdcf
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Wed Mar 22 16:06:28 2017 -0500
+
+    applied nav to model pages
+
+commit 58bd91fb75dd8d9b9567cd507bcb05d9fb45d089
+Author: Justin Meunier <Justin Meunier>
+Date:   Wed Mar 22 16:04:26 2017 -0500
+
+    Added nav bar to artist, set and venue pages
+
+commit 6d60347e16d22375d2aeb543c559e4c209d9f072
+Author: Romit Barua <romitbaruagmailcom@wireless-10-147-112-28.public.utexas.edu>
+Date:   Wed Mar 22 15:53:41 2017 -0500
+
+    fix youtube errors
+
+commit 3af1effa76c7df1803a5b42a705f9372eaaa6c49
+Author: Justin Meunier <Justin Meunier>
+Date:   Wed Mar 22 15:51:02 2017 -0500
+
+    Reformatted artist pages
+
+commit 8af7be6362bbc2790f162ffa5ac949f2527921cd
+Author: Justin Meunier <Justin Meunier>
+Date:   Wed Mar 22 15:40:11 2017 -0500
+
+    Formatted artist pages
+
+commit 492f15bb21d3b786dab28b83ff48fcf9403f0a31
+Author: Justin Meunier <Justin Meunier>
+Date:   Wed Mar 22 15:33:48 2017 -0500
+
+    Formatted setlist pages
+
+commit b07c298dfb42b62e56b660b1400874f0393ade68
+Author: Romit Barua <romitbaruagmailcom@wireless-10-147-112-28.public.utexas.edu>
+Date:   Wed Mar 22 15:19:47 2017 -0500
+
+    fixed the wiki links on artist photos
+
+commit ef592f22913e27c3de1a2bfe8351291fb9cb8acc
+Author: Romit Barua <romitbaruagmailcom@wireless-10-147-112-28.public.utexas.edu>
+Date:   Wed Mar 22 15:18:00 2017 -0500
+
+    added photos to artists
+
+commit 069adc4e7b035c12a84cd25b4c325fb8f290a823
+Author: Romit Barua <romitbaruagmailcom@wireless-10-147-112-28.public.utexas.edu>
+Date:   Wed Mar 22 15:10:40 2017 -0500
+
+    edited venues page
+
+commit 8646405eb6ddb7d133bd94ed85e79773615f0953
+Author: Romit Barua <romitbaruagmailcom@wireless-10-147-112-28.public.utexas.edu>
+Date:   Wed Mar 22 15:09:24 2017 -0500
+
+    venues page
+    
+    added links to the photos to wiki
+
+commit a56f3e31d33dab023c2105949b8a7109a259b5c7
+Author: Romit Barua <romitbaruagmailcom@wireless-10-147-112-28.public.utexas.edu>
+Date:   Wed Mar 22 14:59:45 2017 -0500
+
+    venue specific fixes
+
+commit dc7e5d51a95d27155b4b6f422001f51be36d70ea
+Author: Romit Barua <romitbaruagmailcom@Romits-MacBook-Air.local>
+Date:   Wed Mar 22 14:52:40 2017 -0500
+
+    Venue Specific Pages
+    
+    Formatting changes
+
+commit 50d6826798bd48d8acd5b794551cb604dd9494cf
+Author: Romit Barua <romitbaruagmailcom@wireless-10-147-112-28.public.utexas.edu>
+Date:   Wed Mar 22 14:48:22 2017 -0500
+
+    venue specific pages
+    
+    updated heading to big bands
+
+commit c09b2287fd2a3495d25f8ac6b537341a4b262a92
+Author: Romit Barua <romitbaruagmailcom@wireless-10-147-112-28.public.utexas.edu>
+Date:   Wed Mar 22 14:46:03 2017 -0500
+
+    MSG Specific Page
+    
+    Changing the heading
+
+commit c3ed383625fb23e708c8a08e3ae14e27dc02ec0c
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Wed Mar 22 13:56:55 2017 -0500
+
+    navbar
+
+commit 3f2ed05e957902717647705df55366d73c036573
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Wed Mar 22 13:54:55 2017 -0500
+
+    navbar
+
+commit 1226ff229e0d6b4e50c40d8ef132884199fd0216
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Wed Mar 22 13:53:57 2017 -0500
+
+    navbar again
+
+commit f3e188d49880da30480168e4412ba405da5287d4
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Wed Mar 22 13:42:40 2017 -0500
+
+    fix nav to top
+
+commit 3c5f9616d046dbf049960dd52599250ec52f8e1a
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Wed Mar 22 13:41:54 2017 -0500
+
+    add dividers to nav bar
+
+commit 1e7a9ff845903e20fbaf3ba1b9b29464054aa7e4
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Wed Mar 22 13:35:58 2017 -0500
+
+    nav bar updated
+
+commit a0cbdb74439f11b49289269c1cea66e15bfd6b93
+Author: DESKTOP-5ABSTTN\Ryan <thisisryan55@gmail.com>
+Date:   Wed Mar 22 13:34:24 2017 -0500
+
+    Radiohead artist page, testing center
+    
+    Radiohead artist page, testing center
+
+commit b8fabb0b52a44d77a280051bbacaef7c9f0f6e4f
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Wed Mar 22 13:30:21 2017 -0500
+
+    updated navbar
+
+commit 264c76d968326676bdf952e02c568d3d1ae3431a
+Author: DESKTOP-5ABSTTN\Ryan <thisisryan55@gmail.com>
+Date:   Wed Mar 22 13:29:32 2017 -0500
+
+    finished set details
+    
+    finished set details
+
+commit 4ddb90a587ee066c19a8712eae2c082e1234535f
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Wed Mar 22 13:23:46 2017 -0500
+
+    css change
+
+commit 95a7df2cbd8bac9d36a02206ef7deec2ac8744f6
+Author: Romit Barua <romitbaruagmailcom@wireless-10-147-112-28.public.utexas.edu>
+Date:   Wed Mar 22 13:21:27 2017 -0500
+
+    rock in rio specific page
+    
+    updated
+
+commit f71df2c8f97ad0949ecf6e17a2a072010ea246c6
+Author: Romit Barua <romitbaruagmailcom@wireless-10-147-112-28.public.utexas.edu>
+Date:   Wed Mar 22 13:11:23 2017 -0500
+
+    venue specific pages
+    
+    updated glastonbury page and fixed the t in the park page
+
+commit 2d0539614bf799ec71965945552486cf3a69450f
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Wed Mar 22 13:10:00 2017 -0500
+
+    CSS testing
+
+commit 66505f9c0f429f53b46516873cc6906748af883e
+Author: DESKTOP-5ABSTTN\Ryan <thisisryan55@gmail.com>
+Date:   Wed Mar 22 13:04:41 2017 -0500
+
+    pushing sets models changes
+    
+    pushing sets models changes
+
+commit 62f1a0bedac40a862fe523d3b8680edb817ca180
+Author: Romit Barua <romitbaruagmailcom@wireless-10-147-112-28.public.utexas.edu>
+Date:   Wed Mar 22 13:03:47 2017 -0500
+
+    t in the park specific page
+    
+    update
+
+commit 9a3cb44396bdae04e2508a3049dfd42282902421
+Author: Romit Barua <romitbaruagmailcom@wireless-10-147-112-28.public.utexas.edu>
+Date:   Wed Mar 22 12:58:19 2017 -0500
+
+    venue changes
+    
+    fixed the nav bar and link to glastonbury
+
+commit f787411d191ca7b2e5fd10997e04fbd741ef5c9b
+Author: Romit Barua <romitbaruagmailcom@wireless-10-147-112-28.public.utexas.edu>
+Date:   Wed Mar 22 12:52:15 2017 -0500
+
+    venue model page changes
+    
+    added links to the specific venue pages
+
+commit 7328cbc06f6582393f67f27fd6024569d13ba929
+Author: Romit Barua <romitbaruagmailcom@wireless-10-147-112-28.public.utexas.edu>
+Date:   Wed Mar 22 12:50:34 2017 -0500
+
+    added venue pages
+    
+    added rock in rio, t in the park venues and edited msg link to
+    radiohead set
+
+commit 287c2e32c86a2c91d5cf14de6fded5ede7e17013
+Author: Romit Barua <romitbaruagmailcom@wireless-10-147-112-28.public.utexas.edu>
+Date:   Wed Mar 22 12:46:50 2017 -0500
+
+    set changes
+    
+    added link to radiohead set from msg page
+
+commit 585f847fb922088ea02992d325c2f8e7e8ab3c8f
+Author: Romit Barua <romitbaruagmailcom@wireless-10-147-112-28.public.utexas.edu>
+Date:   Wed Mar 22 12:44:49 2017 -0500
+
+    added msg link
+
+commit 9cc629f0ee90c0a01e1c9682c54b3e799384c4e6
+Author: Romit Barua <romitbaruagmailcom@wireless-10-147-112-28.public.utexas.edu>
+Date:   Wed Mar 22 12:41:38 2017 -0500
+
+    Added MSG Specific Page
+
+commit 7ff3316217f1c9873531c8082cb621d342bd5284
+Author: DESKTOP-5ABSTTN\Ryan <thisisryan55@gmail.com>
+Date:   Wed Mar 22 12:40:51 2017 -0500
+
+    artists finished
+    
+    artists finished
+
+commit 879337e30f2570ffc452279fcc539ee379137c98
+Merge: 9bd0fc3 38acd75
+Author: Justin Meunier <Justin Meunier>
+Date:   Wed Mar 22 12:38:50 2017 -0500
+
+    Merge branch 'master' of https://github.com/vcjaladi/vcjaladi.github.io
+
+commit 9bd0fc3eba79cace831474b261d692567658327c
+Author: Justin Meunier <Justin Meunier>
+Date:   Wed Mar 22 12:38:02 2017 -0500
+
+    Fixed artist model table
+
+commit 38acd75fc8246e70907eb1eebd28f2b2aaea8f34
+Author: DESKTOP-5ABSTTN\Ryan <thisisryan55@gmail.com>
+Date:   Wed Mar 22 12:33:11 2017 -0500
+
+    POTENTIAL REVERT - testing connections
+    
+    POTENTIAL REVERT - testing connections
+
+commit 2c52073e2ea0fb0dd14320fd4649d1778522cf53
+Merge: 9175789 c73ae69
+Author: Justin Meunier <Justin Meunier>
+Date:   Wed Mar 22 12:28:00 2017 -0500
+
+    Merge branch 'master' of https://github.com/vcjaladi/vcjaladi.github.io
+
+commit 91757895d0ade2b1916f0c1b69e06df66907ed6f
+Author: Justin Meunier <Justin Meunier>
+Date:   Wed Mar 22 12:27:22 2017 -0500
+
+    Added setlist templates
+
+commit c73ae691c1213909a099b89415ff338fa622c134
+Author: DESKTOP-5ABSTTN\Ryan <thisisryan55@gmail.com>
+Date:   Wed Mar 22 12:15:37 2017 -0500
+
+    testing center tag
+
+commit aea2d4e07f5de29aed773f88acae020c4c296443
+Author: DESKTOP-5ABSTTN\Ryan <thisisryan55@gmail.com>
+Date:   Wed Mar 22 12:11:21 2017 -0500
+
+    Revert "Completed one iteration of pillars (venue not finished but connected)"
+    
+    This reverts commit d2e27f9219f70f1ee05cd7ffe0b97159d3007d49.
+
+commit d2e27f9219f70f1ee05cd7ffe0b97159d3007d49
+Author: DESKTOP-5ABSTTN\Ryan <thisisryan55@gmail.com>
+Date:   Wed Mar 22 11:56:15 2017 -0500
+
+    Completed one iteration of pillars (venue not finished but connected)
+    
+    Completed one iteration of pillars (venue not finished but connected)
+
+commit ab11cb71840c8d277fceaaef939460a65852c3a3
+Author: DESKTOP-5ABSTTN\Ryan <thisisryan55@gmail.com>
+Date:   Wed Mar 22 11:45:59 2017 -0500
+
+    Finished Artist Pages
+    
+    Finished Artist Pages
+
+commit 293ba152f13a1743e94817677b3da94097096c49
+Author: Romit Barua <romitbaruagmailcom@wireless-10-147-112-28.public.utexas.edu>
+Date:   Tue Mar 21 17:14:53 2017 -0500
+
+    sets
+    
+    embedded youtube videos
+
+commit a1d185791de7bc97242b3571b7ee2860431b06ae
+Merge: 7cd8aa1 e0f6c04
+Author: DESKTOP-5ABSTTN\Ryan <thisisryan55@gmail.com>
+Date:   Tue Mar 21 17:13:21 2017 -0500
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 7cd8aa179bbe77cf0d8af2f1d70c1dab8235f260
+Author: DESKTOP-5ABSTTN\Ryan <thisisryan55@gmail.com>
+Date:   Tue Mar 21 17:11:50 2017 -0500
+
+    First artist page done
+    
+    First artist page done
+
+commit e0f6c047364f68bcfb269397c6979c654224de64
+Author: Romit Barua <romitbaruagmailcom@wireless-10-147-112-28.public.utexas.edu>
+Date:   Tue Mar 21 16:57:34 2017 -0500
+
+    sets lnks
+    
+    added dummy links to the sets page
+
+commit 69ec1a85fd3beb25c9d03a58b3238f1dff757c0e
+Author: Romit Barua <romitbaruagmailcom@wireless-10-147-112-28.public.utexas.edu>
+Date:   Tue Mar 21 16:51:31 2017 -0500
+
+    venues
+    
+    took out venues
+
+commit 811c9f1e538810ffe07af4973b287a88b17f9bc4
+Author: Romit Barua <romitbaruagmailcom@wireless-10-147-112-28.public.utexas.edu>
+Date:   Tue Mar 21 16:50:00 2017 -0500
+
+    venue changes
+    
+    moved venue.html into the venue folder
+
+commit 88939efdcb2af4795f28685b43a2fe7ba7397c69
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Tue Mar 21 16:48:19 2017 -0500
+
+    centering table text
+
+commit c0c84822407e6c5d0dca7a2abe03ba0ec1774473
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Tue Mar 21 16:46:42 2017 -0500
+
+    even MORE css testing
+
+commit 9d36ea163083237c828a9f0012ee3930b6bf8b0d
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Tue Mar 21 16:44:54 2017 -0500
+
+    css testing
+
+commit 6e09f18741eb8cc89fece27d8b59e68006808b6f
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Tue Mar 21 16:36:21 2017 -0500
+
+    updates to css styles
+
+commit 8033aa2b8a9aa890934ae4d14176f202ac804468
+Merge: c05ad7b 61666c1
+Author: Justin Meunier <Justin Meunier>
+Date:   Tue Mar 21 16:34:06 2017 -0500
+
+    Merge branch 'master' of https://github.com/vcjaladi/vcjaladi.github.io
+
+commit 61666c1f7b80554df388c968be658a035b8b7229
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Tue Mar 21 16:33:23 2017 -0500
+
+    added table styling
+
+commit c05ad7b4e640e2da9aad71912c31e8dbfe270a80
+Author: Justin Meunier <Justin Meunier>
+Date:   Tue Mar 21 16:32:23 2017 -0500
+
+    Fixing nav bar
+
+commit 20861579d87dde9f50f7225e0aa58d375c423609
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Tue Mar 21 16:31:17 2017 -0500
+
+    css update
+
+commit 93bc247971b4cc486c4a13421123eb0ebb5a116a
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Tue Mar 21 16:29:54 2017 -0500
+
+    test banner
+
+commit 467aa585905bbe882b22c53090b5511c966b404e
+Author: Romit Barua <romitbaruagmailcom@wireless-10-147-112-28.public.utexas.edu>
+Date:   Tue Mar 21 16:27:53 2017 -0500
+
+    added photos to venue
+    
+    photos to venue
+
+commit a15cf502fcfe170fc54b04bd0e6e03fcab480608
+Author: DESKTOP-5ABSTTN\Ryan <thisisryan55@gmail.com>
+Date:   Tue Mar 21 16:27:06 2017 -0500
+
+    editting radiohead artists template - navbar
+    
+    editting radiohead artists template - navbar
+
+commit 329251fd346909af391b4cbbb701d30b87ca75d1
+Author: DESKTOP-5ABSTTN\Ryan <thisisryan55@gmail.com>
+Date:   Tue Mar 21 16:21:09 2017 -0500
+
+    delete non-html
+    
+    delete non-html
+
+commit 89a157381a4c6d73be488540a5b7666a5553b444
+Author: DESKTOP-5ABSTTN\Ryan <thisisryan55@gmail.com>
+Date:   Tue Mar 21 16:17:06 2017 -0500
+
+    change to hmtl, testing links 4
+    
+    change to hmtl, testing links 4
+
+commit fbfad791177b12111ddcbef4a12b57b744eefd5f
+Author: DESKTOP-5ABSTTN\Ryan <thisisryan55@gmail.com>
+Date:   Tue Mar 21 16:15:50 2017 -0500
+
+    testing links 3
+    
+    testing links 3
+
+commit d143dc52becb978e6ca27145c0f248464840602b
+Author: Romit Barua <romitbaruagmailcom@wireless-10-147-112-28.public.utexas.edu>
+Date:   Tue Mar 21 16:15:26 2017 -0500
+
+    blank venue links
+    
+    added blank links to venues
+
+commit d2719140e062bba8dd70a381eb6503641c671b3d
+Author: DESKTOP-5ABSTTN\Ryan <thisisryan55@gmail.com>
+Date:   Tue Mar 21 16:13:13 2017 -0500
+
+    testing links of details 2
+    
+    testing links of details 2
+
+commit 627d0117c5bb981dd60553a871ca99dbd51850be
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Tue Mar 21 16:12:23 2017 -0500
+
+    css testing
+
+commit 532ef5d5ab38ea25713b7d9b74c8c6555887627d
+Author: DESKTOP-5ABSTTN\Ryan <thisisryan55@gmail.com>
+Date:   Tue Mar 21 16:10:46 2017 -0500
+
+    test linking detail pages
+    
+    test linking pages
+
+commit 80726e7bcb9f2ba796115d845ed0552be23ea0ac
+Author: DESKTOP-5ABSTTN\Ryan <thisisryan55@gmail.com>
+Date:   Tue Mar 21 16:03:39 2017 -0500
+
+    set up detail pages
+    
+    Set up folders for details pages, as well as initial page for each.
+
+commit 31d5c3412d0f6bdedf1accad538f20bbbe0730b5
+Author: Romit Barua <romitbaruagmailcom@wireless-10-147-112-28.public.utexas.edu>
+Date:   Tue Mar 21 16:02:25 2017 -0500
+
+    venues changes
+    
+    updated venues
+
+commit fae117673c0929fd78b6a56edfc7e92386b904fd
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Tue Mar 21 16:01:06 2017 -0500
+
+    Added sets table
+
+commit 7c7aa0282a426b1815e6688b4821338628b29d4b
+Author: Romit Barua <romitbaruagmailcom@wireless-10-147-112-28.public.utexas.edu>
+Date:   Tue Mar 21 15:55:59 2017 -0500
+
+    Venues
+    
+    changes to venues
+
+commit e3a90b58367add9d11c2c941325cc128cbed6c34
+Author: Justin Meunier <Justin Meunier>
+Date:   Tue Mar 21 15:54:36 2017 -0500
+
+    Added artists page
+
+commit 9183f4957d629bc554491e02d5a0961a8cb15d96
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Tue Mar 21 15:33:43 2017 -0500
+
+    link css to pages
+
+commit eea953ea6c5f9b1922a02339315cf9a123c77914
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Tue Mar 21 15:32:03 2017 -0500
+
+    add base pages for all sections
+
+commit a68e0d5dc5a5dc4d5fb0c8c778dfb84f75a61bfc
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Tue Mar 21 15:17:12 2017 -0500
+
+    another fixed link
+
+commit b16a57748349c14df5afc7a41559a96ac0c85294
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Tue Mar 21 15:14:38 2017 -0500
+
+    fixed link issue
+
+commit 0a313c9d52e13453adebe931b8916c184f694522
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Tue Mar 21 15:12:33 2017 -0500
+
+    rename splash page
+
+commit 38f06acc101bf66ca753c9801fb9f07fe7a58525
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Tue Mar 21 15:11:39 2017 -0500
+
+    removing index
+
+commit e76503f17ea205b911018c094d9f66601f0e52fc
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Tue Mar 21 15:08:02 2017 -0500
+
+    add about page and nav bar
+
+commit 389f3ba9aca5bac0a4e5da3d5742d0529177412c
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Tue Mar 21 14:53:10 2017 -0500
+
+    add splash
+
+commit 13fbebb0fa351797f22ab0081acd2b1348c5e077
+Merge: 6c5953e 871a257
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Tue Mar 21 14:52:04 2017 -0500
+
+    add splash page
+
+commit 6c5953e1c24be65c95bd564bbf0ec29e75cc1fdf
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Tue Mar 21 14:50:46 2017 -0500
+
+    add splash page
+
+commit 871a25712c49147a061e273872d14183cb0c19b1
+Author: Justin Meunier <Justin Meunier>
+Date:   Tue Mar 21 14:32:50 2017 -0500
+
+    Testing CSS change
+
+commit 11c4a46accc3c3948efd450845f71e8ab5c2ddb1
+Author: Justin Meunier <Justin Meunier>
+Date:   Tue Mar 21 14:29:08 2017 -0500
+
+    Index for CSS testing
+
+commit 1cae42db59dbbc5e729dd2b03241f55a32d152a7
+Merge: b9500f3 8ceece8
+Author: Justin Meunier <Justin Meunier>
+Date:   Tue Mar 21 14:27:18 2017 -0500
+
+    Merge branch 'master' of https://github.com/vcjaladi/vcjaladi.github.io
+
+commit b9500f3c8a71e1e159c82bfd092c412fc13d924a
+Author: Justin Meunier <Justin Meunier>
+Date:   Tue Mar 21 14:26:20 2017 -0500
+
+    Example index to test CSS
+
+commit 8ceece8b2902b468b0655ae44f5b2b645b816b11
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Tue Mar 21 14:24:26 2017 -0500
+
+    initial css
+
+commit a2845ce6dec793659d5c2b7f4164525db2d83158
+Author: vcjaladi <vcjaladi@utexas.edu>
+Date:   Mon Mar 20 18:30:24 2017 -0500
+
+    Create CNAME
+
+commit 9d3eca56625d8b0179ee5dee942cf7dae996e905
+Author: Varun Jaladi <varunjaladi@wireless-10-146-222-125.public.utexas.edu>
+Date:   Mon Mar 20 18:29:40 2017 -0500
+
+    index file
+
+commit 0cbd60de4e31d7084ad7238dff5ee874ca8aa9e0
+Author: vcjaladi <vcjaladi@utexas.edu>
+Date:   Mon Mar 20 18:28:06 2017 -0500
+
+    Initial commit
