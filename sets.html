@@ -27,6 +27,8 @@
     </ul>
     <br>
     <h2>Sets</h2>
+	
+	<!-- Table Script -->
 	<script>
 	$(document).ready(function(){
     $('#customtable').dataTable({
@@ -44,7 +46,7 @@
             <th>Set Name</th>
             <th>Artist</th>
             <th>Venue</th>
-            <th>Song List</th>
+            <th>Setlist</th>
             <th>Date</th>
             <th>Live Video</th>
           </tr>
@@ -55,9 +57,12 @@
                 <td><a href="/artists/artist-Coldplay.html">Coldplay</a></td>
                 <td><a href="/venues/venue - glastonbury.html">Glastonbury</a></td>
                 <td> <button type="button" onclick="show('id1');">Show Setlist</button>
-					<div id="id1" class="hidden">1. A Head Full of Dreams 2. Yellow 3. Every Teardrop Is a Waterfall 4. The Scientist 5. Birds 6. Paradise 7. Everglow 8. Clocks 9. Midnight 10. Charlie Brown 11. Hymm for the Weekend 12. Fix You 13. Boys That Sing 14. Viva la Vida 15. Adventure of a Lifetime ENCORE 16. To Love Somebody 17. Stayin' Alive 18. A Sky Full of Stars 19. Up&Up 20. My Way 21 Up&Up </div></td>
+				<div id="id1" class="hidden">1. A Head Full of Dreams 2. Yellow 3. Every Teardrop Is a Waterfall 4. The Scientist 5. Birds 6. Paradise 7. Everglow 8. Clocks 9. Midnight 10. Charlie Brown 11. Hymm for the Weekend 12. Fix You 13. Boys That Sing 14. Viva la Vida 15. Adventure of a Lifetime ENCORE 16. To Love Somebody 17. Stayin' Alive 18. A Sky Full of Stars 19. Up&Up 20. My Way 21 Up&Up </div></td>
                 <td>6/26/2016</td>
-                <td><iframe width ="420" height ="315" src="https://www.youtube.com/embed/-jx8gyi-CHc"></iframe></td>
+                <td>
+				<button type="button" onclick="show('idA');">Show Video</button>
+				<div id="idA" class="hidden"><iframe width ="420" height ="315" src="https://www.youtube.com/embed/-jx8gyi-CHc"></iframe></div>
+				</td>
             </tr>
 
             <tr>
@@ -68,7 +73,10 @@
 
 				<div id="id2" class="hidden">1. Mylo Xyloto 2. Hurts Like Heaven 3. Yellow 4. In My Place 5. Major Minus 6. Paradise 7. Lost! 8. Violet Hill 9. God Put a Smile Upon Your Face 10. The Scientist 11. Us Against the World 12. Politik 13. Viva la Vida 14. Charlie Brown 15. Life is for Living ENCORE 16: Clocks 17. Fix You 18. Every Teardrop is a Waterfall </div></td>
                 <td>10/1/2011</td>
-                <td><iframe width ="420" height ="315" src="https://www.youtube.com/embed/X0DAzVQLxYM"></iframe></td>
+                <td>
+				<button type="button" onclick="show('idB');">Show Video</button>
+				<div id="idB" class="hidden"><iframe width ="420" height ="315" src="https://www.youtube.com/embed/X0DAzVQLxYM"></iframe></div>
+				</td>
             </tr>
 
             <tr>
@@ -78,7 +86,10 @@
                 <td><button type="button" onclick="show('id3');">Show Setlist</button>
 				<div id="id3" class="hidden">1. Mylo Xyloto 2. Hurts Like Heaven 3. Yellow 4. In My Place 5. Major Minus 6. Lost! 7. The Scientist 8. Shiver 9. Violet Hill 10. God Put a Smile Upon Your Face 11. Everything's Not Lost 12. Us Against the World 13. Politik 14. Viva la Vida 15. Charlie Brown 16. Life Is For Living 17. Clocks 18. Fix You 19. Every Teardrop is a Waterfall </div></td>
                 <td>7/11/2011</td>
-                <td><iframe width ="420" height ="315" src="https://www.youtube.com/embed/kKJnzKiB1-o"></iframe></td>
+                <td>
+				<button type="button" onclick="show('idC');">Show Video</button>
+				<div id="idC" class="hidden"><iframe width ="420" height ="315" src="https://www.youtube.com/embed/kKJnzKiB1-o"></iframe></div>
+				</td>
             </tr>
 
             <tr>
@@ -88,9 +99,11 @@
                 <td><button type="button" onclick="show('id4');">Show Setlist</button>
 				<div id="id4" class="hidden">1. Fuel 2. Master of Puppets 3. King Nothing 4. Disposable Heroes 5. Welcome Home (Sanitarium) 6. Lords of Summer 7. The Unforgiving 8. Cyanide 9. Sad but True 10. Turn the Page 11. One 12. For Whom the Bells Tolls 13. Blackened 14. Nothing Else Matters 15. Enter Sandman 16. Whiskey in the Jar 17. Creeping Death 18. Seek & Destroy</div></td>
                 <td>5/24/2015</td>
-                <td><iframe width ="420" height ="315" src="https://www.youtube.com/embed/T2ax1g__Se0"></iframe></td>
+                <td>
+				<button type="button" onclick="show('idD');">Show Video</button>
+				<div id="idD" class="hidden"><iframe width ="420" height ="315" src="https://www.youtube.com/embed/T2ax1g__Se0"></iframe></div>
+				</td>
             </tr>
-
             <tr>
                 <td><a href="/sets/set-Radiohead_MSG_2016.html">Radiohead - 2016 - Madison Square Garden</a></td>
                 <td><a href="/artists/artist-Radiohead.html">Radiohead</a></td>
@@ -98,7 +111,10 @@
                 <td><button type="button" onclick="show('id5');">Show Setlist</button>
 				<div id="id5" class="hidden">1. Burn the Witch 2. Daydreaming 3. Decks Dark 4. Desert Island Disk 5. Ful Stop 6. My Iron Lung 7. Climbing Up the Walls 8. Morning Mr. Magpie 9. Pyramid Song 10. Bloom 11. Identikit 12. The Numbers 13. The Gloaming 14. Weird Fishes/Arpeggi 15. Everything in Its Place 16. Idioteque 17. There There 18. Give Up the Ghost 19. Let Down 20. Present Tense 21. Planet Telex 22. Karma Police 23. Reckoner 24. Creep</div></td>
                 <td>7/27/16</td>
-                <td><iframe width ="420" height ="315" src="https://www.youtube.com/embed/t94FTibEgYQ"></iframe></td>
+                <td>
+				<button type="button" onclick="show('idE');">Show Video</button>
+				<div id="idE" class="hidden"><iframe width ="420" height ="315" src="https://www.youtube.com/embed/t94FTibEgYQ"></iframe></div>
+				</td>
             </tr>
 
             <tr>
@@ -108,18 +124,50 @@
                 <td><button type="button" onclick="show('id6');">Show Setlist</button>
 				<div id="id6" class="hidden">1. Lotus Flower 2. 15 Step 3. Morning Mr. Magpie 4. Little by Little 5. All I Need 6. Separator 7. Give Up the Ghost 8. Weird Fishes/Arpeggi 9. Staircase 10. I Might Be Wrong 11. Bloom 12. Reckoner 13. The Daily Mail 14. Street Spirit (Fade Out) </div></td>
                 <td>6/24/2011</td>
-                <td><iframe width ="420" height ="315" src="https://www.youtube.com/embed/RrH42F9Q1GM"></iframe></td>
+                <td>
+				<button type="button" onclick="show('idF');">Show Video</button>
+				<div id="idF" class="hidden"><iframe width ="420" height ="315" src="https://www.youtube.com/embed/RrH42F9Q1GM"></iframe></div>
+				</td>
             </tr>
+			
+            <tr>
+                <td><a href="/sets/set-Radiohead_Worth Farm_2011.html">Set Here</a></td>
+                <td><a href="/artists/artist-Radiohead.html">Band Here</a></td>
+                <td><a href="/venues/venue - glastonbury.html">Venue Here</a></td>
+                <td><button type="button" onclick="show('id7');">Show Setlist</button>
+				<div id="id7" class="hidden">Setlist Here</div></td>
+                <td>6/24/2011</td>
+                <td>
+				<button type="button" onclick="show('idG');">Show Video</button>
+				<div id="idG" class="hidden"><iframe width ="420" height ="315" src="Video Url Here"></iframe></div>
+				</td>
+            </tr>
+			
+            <tr>
+                <td><a href="/sets/set-Radiohead_Worth Farm_2011.html">Set Here</a></td>
+                <td><a href="/artists/artist-Radiohead.html">Band Here</a></td>
+                <td><a href="/venues/venue - glastonbury.html">Venue Here</a></td>
+                <td><button type="button" onclick="show('id8');">Show Setlist</button>
+				<div id="id8" class="hidden">Setlist Here</div></td>
+                <td>6/24/2011</td>
+                <td>
+				<button type="button" onclick="show('idH');">Show Video</button>
+				<div id="idH" class="hidden"><iframe width ="420" height ="315" src="Video Url Here"></iframe></div>
+				</td>
+            </tr>
+			
+			
+			
         </tbody>
     </table>
+	
+	<!-- Show Setlist Button Script -->
 	<script>
-		window.show = function(elementId) {
+	  window.show = function(elementId) {
 	  var elements = document.getElementsByTagName("div");
-	  for (var i = 0; i < elements.length; i++)
-		elements[i].className = "hidden";
-
 	  document.getElementById(elementId).className = "";
 	}
 	</script>
+	
 </body>
 </html>
