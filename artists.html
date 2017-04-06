@@ -7,7 +7,9 @@
 	<!-- Bootstrap -->
 	<link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">   
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-	<link rel="stylesheet" href="http://cdn.datatables.net/1.10.2/css/jquery.dataTables.min.css"></style>
+	<link rel="stylesheet" href="http://cdn.datatables.net/1.10.2/css/jquery.dataTables.min.css">
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" rel="stylesheet">
 	<script type="text/javascript" src="http://cdn.datatables.net/1.10.2/js/jquery.dataTables.min.js"></script>
 	<script type="text/javascript" src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 	<!-- CSS -->
@@ -16,9 +18,8 @@
     <title>Artists - Big Bands</title>
 	<link rel="icon" href="images/logo.png">
 </head>
-<body>
-    <h1>Big Bands</h1>
 
+<body>
     <ul>
         <li><a href="index.html">Home</a></li>
         <li><a class="active" href="artists.html">Artists</a></li>
@@ -27,9 +28,12 @@
         <li style="float:right"><a href="about.html">About</a></li>
     </ul>
 
-	<br>
-    <h2>Artists</h2>
-	
+ 	<div class="jumbotron" style="background: url(images/handsbackground.jpg)">
+      <div class="container">
+        <h1 style="color: #31832D; font-weight: bold">Artists</h1>
+      </div>
+ 	</div>
+
 	<!-- Table Script using DataTable -->
 	<script>
 	$(document).ready(function(){
