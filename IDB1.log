@@ -1,3 +1,387 @@
+commit 3e52af5b8752692eeade50f079a5c721ab4db895
+Author: Varun Jaladi <varunjaladi@Varuns-MacBook-Pro.local>
+Date:   Thu Apr 6 19:09:26 2017 -0500
+
+    stats added to about
+
+commit a3da3ae0e0b3bb33f59c4570d7d349cb0363218b
+Author: Tanner Mierl <Tanner Mierl>
+Date:   Thu Apr 6 15:47:12 2017 -0500
+
+    fixed venues big bands
+
+commit 79616a13bad185309eee6dd1f9dbf9e9005c9956
+Author: Romit Barua <romitbaruagmailcom@wireless-10-147-174-81.public.utexas.edu>
+Date:   Thu Apr 6 15:38:58 2017 -0500
+
+    updated radiohead and coldplay pages
+
+commit 98e0f40520f488263957f8577e40df0271041ce0
+Author: Romit Barua <romitbaruagmailcom@wireless-10-147-174-81.public.utexas.edu>
+Date:   Thu Apr 6 15:36:01 2017 -0500
+
+    got rid of big bands
+
+commit a3fc49361a9bda1aa81fecf1a3e07106a560bc9e
+Author: Varun Jaladi <varunjaladi@Varuns-MacBook-Pro.local>
+Date:   Thu Apr 6 15:31:17 2017 -0500
+
+    removed title from artist pages
+
+commit 51d01a059e3a22b1d7d6ceef6822aadd0af7944d
+Author: Varun Jaladi <varunjaladi@Varuns-MacBook-Pro.local>
+Date:   Thu Apr 6 15:28:48 2017 -0500
+
+    banner on model pages
+
+commit 9f7ea0092d86648e691bebcb78ea899b2b8f03cf
+Author: Romit Barua <romitbaruagmailcom@wireless-10-147-174-81.public.utexas.edu>
+Date:   Thu Apr 6 15:22:27 2017 -0500
+
+    mades changes to venues and venue specifc pages
+
+commit 7e64f6efbbad326e19fe9a6ccb05c0832d5ffb44
+Author: Varun Jaladi <varunjaladi@Varuns-MacBook-Pro.local>
+Date:   Thu Apr 6 15:22:13 2017 -0500
+
+    banner on artist page
+
+commit b4bffa3c6228b4a98b1688193644eb719961eac0
+Author: Tanner Mierl <Tanner Mierl>
+Date:   Thu Apr 6 15:20:26 2017 -0500
+
+    removed title from sets instance pages
+
+commit 077e6bf02a2dc24efd58d917a6dec6ff2478692e
+Author: DESKTOP-5ABSTTN\Ryan <thisisryan55@gmail.com>
+Date:   Thu Apr 6 12:47:44 2017 -0500
+
+    fixed Kendrick page
+
+commit 252a53eeed8608c5fb4772fe15921bed95bb4cbb
+Author: DESKTOP-5ABSTTN\Ryan <thisisryan55@gmail.com>
+Date:   Thu Apr 6 12:39:09 2017 -0500
+
+    updated each artist's page links
+
+commit 05978b9b91ca7781b5d8497cb91adc74f13986ab
+Author: Varun Jaladi <varunjaladi@Varuns-MacBook-Pro.local>
+Date:   Thu Apr 6 01:02:54 2017 -0500
+
+    resize image
+
+commit 8d873e381f3d06b2ec1864d60b8ec00a3fd6059c
+Author: Varun Jaladi <varunjaladi@Varuns-MacBook-Pro.local>
+Date:   Thu Apr 6 01:00:23 2017 -0500
+
+    switched pictures to something less grainy
+
+commit 5ed3453b34d94b96e1a7c9e26f76381681caa655
+Author: Varun Jaladi <varunjaladi@Varuns-MacBook-Pro.local>
+Date:   Thu Apr 6 00:48:30 2017 -0500
+
+    color changes
+
+commit 4137b90d89cd35a46e81dd68911e3be02013881a
+Author: Varun Jaladi <varunjaladi@Varuns-MacBook-Pro.local>
+Date:   Thu Apr 6 00:46:43 2017 -0500
+
+    changed organization on about
+
+commit ec30a9f43fdf5f38520675c086a5bdeca0306c16
+Author: Varun Jaladi <varunjaladi@Varuns-MacBook-Pro.local>
+Date:   Thu Apr 6 00:43:32 2017 -0500
+
+    added background to jumbotron on about page
+
+commit 8535ae5e748f7e00d8d6dc1bb37ca34fbb62eb8b
+Author: Varun Jaladi <varunjaladi@Varuns-MacBook-Pro.local>
+Date:   Thu Apr 6 00:41:01 2017 -0500
+
+    removed extra styles from about page
+
+commit 3d445e73b0bd9727fe36e7d923f5e15edc117812
+Author: Varun Jaladi <varunjaladi@Varuns-MacBook-Pro.local>
+Date:   Thu Apr 6 00:37:55 2017 -0500
+
+    featurette testing
+
+commit 73c4918d479842ffcce1fae901d0cc0a9ede6cfa
+Author: Varun Jaladi <varunjaladi@Varuns-MacBook-Pro.local>
+Date:   Thu Apr 6 00:03:44 2017 -0500
+
+    formatting changes on about page
+
+commit e2c70587f3f90f62f1ce61e71b035056e51fa593
+Author: Varun Jaladi <varunjaladi@Varuns-MacBook-Pro.local>
+Date:   Wed Apr 5 23:29:14 2017 -0500
+
+    resizing romits picture so it'll look... circular
+
+commit e4bcc8144b324305614f8753835ce9ad7fc7956e
+Author: Varun Jaladi <varunjaladi@Varuns-MacBook-Pro.local>
+Date:   Wed Apr 5 23:26:24 2017 -0500
+
+    fixing images on about page
+
+commit 85cc43b8480fd1be52c50b458573c873150631c1
+Author: Varun Jaladi <varunjaladi@Varuns-MacBook-Pro.local>
+Date:   Wed Apr 5 21:53:07 2017 -0500
+
+    fix picture issue on about page
+
+commit d227d50520bc7c144d3f39671dae2e2498817182
+Author: Varun Jaladi <varunjaladi@Varuns-MacBook-Pro.local>
+Date:   Wed Apr 5 21:50:42 2017 -0500
+
+    update about page
+
+commit 81b89090d000742fe5cf74927ffb66f4862080cb
+Author: LAPTOP-99DFSPT0\Tanner <tanman15@gmail.com>
+Date:   Wed Apr 5 17:43:48 2017 -0500
+
+    added anderson paak at staples
+
+commit 59d08824cabf99d4ac76d5f193cc2b47942495b3
+Author: LAPTOP-99DFSPT0\Tanner <tanman15@gmail.com>
+Date:   Wed Apr 5 17:27:07 2017 -0500
+
+    added denzel curry stubbs
+
+commit 4e08cf756e7a4d0f77611273dc585db7b7d9417f
+Author: Romit Barua <romitbaruagmailcom@wireless-10-147-174-81.public.utexas.edu>
+Date:   Wed Apr 5 17:12:41 2017 -0500
+
+    fixed sets links in acl venue page
+
+commit 7ebd56c7e415901478ed88ee1af19011246429ff
+Author: Varun Jaladi <varunjaladi@2ndclass-10-144-54-43.public.utexas.edu>
+Date:   Wed Apr 5 17:09:24 2017 -0500
+
+    color changes on splash
+
+commit 9afb44017a34cd97e67737fb67c52e5e782673d2
+Author: Varun Jaladi <varunjaladi@2ndclass-10-144-54-43.public.utexas.edu>
+Date:   Wed Apr 5 17:07:12 2017 -0500
+
+    color changes on splash
+
+commit 0761aca50cf01493cd1ec5c71e22c8d79d699ef3
+Author: DESKTOP-5ABSTTN\Ryan <thisisryan55@gmail.com>
+Date:   Wed Apr 5 17:00:58 2017 -0500
+
+    artists 2, need to add sets
+
+commit f74d0c096e6be536cf033d213e571622b641c93c
+Merge: 308b61c bcd49ab
+Author: LAPTOP-99DFSPT0\Tanner <tanman15@gmail.com>
+Date:   Wed Apr 5 17:02:10 2017 -0500
+
+    Merge branch 'master' of https://github.com/vcjaladi/vcjaladi.github.io
+
+commit 308b61cc14e2c4aab903542ea049d36022934019
+Author: LAPTOP-99DFSPT0\Tanner <tanman15@gmail.com>
+Date:   Wed Apr 5 17:02:02 2017 -0500
+
+    corrected reference on Kendrick ACL page
+
+commit 29adaca7a89c536ec5a136fef098ad6f57937fdf
+Merge: 887b7a7 bb93323
+Author: LAPTOP-99DFSPT0\Tanner <tanman15@gmail.com>
+Date:   Wed Apr 5 16:59:54 2017 -0500
+
+    Merge branch 'master' of https://github.com/vcjaladi/vcjaladi.github.io
+
+commit 887b7a7ac1e5d9dc681f86fac9096e8c2a883b9a
+Author: LAPTOP-99DFSPT0\Tanner <tanman15@gmail.com>
+Date:   Wed Apr 5 16:59:46 2017 -0500
+
+    fixed radiohead sets button on set page
+
+commit bcd49abc780665367c668a82e7317c5b24446a71
+Author: Varun Jaladi <varunjaladi@2ndclass-10-144-54-43.public.utexas.edu>
+Date:   Wed Apr 5 16:59:32 2017 -0500
+
+    readability of jumbotron
+
+commit ecb1c8ce6cf2ea687d6ceea146937531b90e759e
+Merge: 8295cd3 3ddc3ef
+Author: LAPTOP-99DFSPT0\Tanner <tanman15@gmail.com>
+Date:   Wed Apr 5 16:57:15 2017 -0500
+
+    Merge branch 'master' of https://github.com/vcjaladi/vcjaladi.github.io
+
+commit bb9332339849fa69fd081b4c73f32a48af12031f
+Author: DESKTOP-5ABSTTN\Ryan <thisisryan55@gmail.com>
+Date:   Wed Apr 5 16:54:33 2017 -0500
+
+    artists added, need to insert sets later
+
+commit 8295cd3eefdbc535eae96104a51409a77b0ffbbb
+Author: LAPTOP-99DFSPT0\Tanner <tanman15@gmail.com>
+Date:   Wed Apr 5 16:56:41 2017 -0500
+
+    fixed typo
+
+commit f021eee72a7bb826259fb00ee81e92e32620decb
+Merge: 84f0f7f 21e16e4
+Author: LAPTOP-99DFSPT0\Tanner <tanman15@gmail.com>
+Date:   Wed Apr 5 16:55:04 2017 -0500
+
+    Merge branch 'master' of https://github.com/vcjaladi/vcjaladi.github.io
+
+commit 3ddc3efef03ba08f6ea66de619fb27c842cbbdfd
+Author: Varun Jaladi <varunjaladi@2ndclass-10-144-54-43.public.utexas.edu>
+Date:   Wed Apr 5 16:54:01 2017 -0500
+
+    resizing twitter widget
+
+commit 84f0f7f69d5470731178e4ff2c12efc82d79afee
+Author: LAPTOP-99DFSPT0\Tanner <tanman15@gmail.com>
+Date:   Wed Apr 5 16:53:17 2017 -0500
+
+    fixed coldplay and radiohead acl
+
+commit 21e16e45a1d592432bfafac1081f237b647c4354
+Author: Varun Jaladi <varunjaladi@wireless-10-147-74-186.public.utexas.edu>
+Date:   Wed Apr 5 16:50:55 2017 -0500
+
+    resize twitter feed
+
+commit 5577f4cc4038dabd48363945508569e60c6e21a1
+Author: Romit Barua <romitbaruagmailcom@wireless-10-147-174-81.public.utexas.edu>
+Date:   Wed Apr 5 16:42:54 2017 -0500
+
+    added stubbs to model page and created specific page
+
+commit 04ed777b9aa0fb1193e346397e2680283fab3712
+Author: Varun Jaladi <varunjaladi@wireless-10-147-74-186.public.utexas.edu>
+Date:   Wed Apr 5 16:45:30 2017 -0500
+
+    added twitter widget
+
+commit 3e2d51d56db68eedba4ae37fdf28fd3eff639992
+Author: LAPTOP-99DFSPT0\Tanner <tanman15@gmail.com>
+Date:   Wed Apr 5 16:47:18 2017 -0500
+
+    added Coldplay ACL and Radiohead ACL
+
+commit 13c3508460305fdd7f778401cc120da73a12138f
+Author: Justin Meunier <Justin Meunier>
+Date:   Wed Apr 5 16:39:47 2017 -0500
+
+    Updated sets table formatting
+
+commit e10a9d9f2db24a73e37a0dc19759d29eea4716ea
+Author: Varun Jaladi <varunjaladi@wireless-10-147-74-186.public.utexas.edu>
+Date:   Wed Apr 5 16:30:53 2017 -0500
+
+    updated splash
+
+commit 3ee201edba72891d76ff77fcc38ab6a20a772882
+Merge: 3a38381 dbcb024
+Author: Justin Meunier <Justin Meunier>
+Date:   Wed Apr 5 16:27:54 2017 -0500
+
+    Merge branch 'master' of https://github.com/vcjaladi/vcjaladi.github.io
+
+commit dbcb02401d6c6efc8af2804141364df42e851e1e
+Author: LAPTOP-99DFSPT0\Tanner <tanman15@gmail.com>
+Date:   Wed Apr 5 16:29:32 2017 -0500
+
+    linked coldplay set at acl
+
+commit 3a383814289f1c9180fa646ec526bafe891c28bf
+Merge: 5fbb08d 7c04269
+Author: Justin Meunier <Justin Meunier>
+Date:   Wed Apr 5 16:27:40 2017 -0500
+
+    Fixed sets model
+
+commit 5fbb08dd8b3314662cef4c5e80c296257f3f502d
+Author: Justin Meunier <Justin Meunier>
+Date:   Wed Apr 5 16:26:15 2017 -0500
+
+    Fixed sets table
+
+commit 7c042697570df507cc822a7753e18a043b6007a5
+Author: Varun Jaladi <varunjaladi@wireless-10-147-74-186.public.utexas.edu>
+Date:   Wed Apr 5 16:22:54 2017 -0500
+
+    removed header
+
+commit 63bb7037027d43e8b94235732b315825607af7a9
+Author: LAPTOP-99DFSPT0\Tanner <tanman15@gmail.com>
+Date:   Wed Apr 5 16:24:53 2017 -0500
+
+    added Coldplay ACL
+
+commit 54f110b3c6678a4e1c003cd30451f1ce78e26d59
+Author: Varun Jaladi <varunjaladi@wireless-10-147-74-186.public.utexas.edu>
+Date:   Wed Apr 5 16:19:35 2017 -0500
+
+    updated splash
+
+commit c1d1cc7200aebac2599836e0a4206af24a4c6c25
+Author: Romit Barua <romitbaruagmailcom@wireless-10-147-174-81.public.utexas.edu>
+Date:   Wed Apr 5 16:12:18 2017 -0500
+
+    added staples
+
+commit 24099a0b6fd82084113b18ed33a37c6141af895b
+Author: Varun Jaladi <varunjaladi@wireless-10-147-74-186.public.utexas.edu>
+Date:   Wed Apr 5 16:13:40 2017 -0500
+
+    bootstrap splash page
+
+commit b999bd21fc42e4e9a726c901e297ddb578d7278f
+Author: LAPTOP-99DFSPT0\Tanner <tanman15@gmail.com>
+Date:   Wed Apr 5 16:12:35 2017 -0500
+
+    fixed Kendrick Video
+
+commit 7b72c918e3ab7db062a65e6c6e12aca69f70af6b
+Author: LAPTOP-99DFSPT0\Tanner <tanman15@gmail.com>
+Date:   Wed Apr 5 16:08:51 2017 -0500
+
+    fixed kendrick set hopefully
+
+commit 4f74400261b7da9375a2599d4f6d1a8390eba357
+Author: Romit Barua <romitbaruagmailcom@wireless-10-147-174-81.public.utexas.edu>
+Date:   Wed Apr 5 16:04:58 2017 -0500
+
+    edited venues and added acl specific page
+
+commit b45fa1625b8a0b1a9b3243c85300fab50edcdd46
+Author: LAPTOP-99DFSPT0\Tanner <tanman15@gmail.com>
+Date:   Wed Apr 5 16:06:48 2017 -0500
+
+    linked to Kendrick set list acl
+
+commit f3ef691d17ab6fd6095e45bcfabd7bc5fef5b640
+Author: Romit Barua <romitbaruagmailcom@wireless-10-147-174-81.public.utexas.edu>
+Date:   Wed Apr 5 15:56:11 2017 -0500
+
+    added acl
+
+commit eb7bcb165f7b20df5d9e26e2c0078927e6045ff9
+Author: LAPTOP-99DFSPT0\Tanner <tanman15@gmail.com>
+Date:   Wed Apr 5 15:57:02 2017 -0500
+
+    Kendrick Lamar at ACL set added
+
+commit c506a4382706487e04d6de35863932eba6c73f4e
+Author: Justin Meunier <Justin Meunier>
+Date:   Wed Apr 5 15:32:38 2017 -0500
+
+    Updated model tables
+
+commit 8b25080fd3b15986f18151760f269784c9b6e3d2
+Author: Varun Jaladi <varunjaladi@wireless-10-147-189-154.public.utexas.edu>
+Date:   Thu Mar 23 16:42:04 2017 -0500
+
+    add git log
+
 commit 1f18d6648fa80f73cb884f686858e99582a26a95
 Author: Justin Meunier <Justin Meunier>
 Date:   Thu Mar 23 16:27:06 2017 -0500
