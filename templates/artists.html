@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<!-- Meta Tags-->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="UTF-8">
+	<!-- Bootstrap -->
+	<link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">   
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	<link rel="stylesheet" href="http://cdn.datatables.net/1.10.2/css/jquery.dataTables.min.css">
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" rel="stylesheet">
+	<script type="text/javascript" src="http://cdn.datatables.net/1.10.2/js/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+	<!-- CSS -->
+	<link rel="stylesheet" type="text/css" href="/styles.css">
+	
+    <title>Artists - Big Bands</title>
+	<link rel="icon" href="images/logo.png">
+</head>
+
+<body>
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a class="active" href="artists.html">Artists</a></li>
+        <li><a href="venues.html">Venues</a></li>
+        <li><a href="sets.html">Sets</a></li>
+        <li style="float:right"><a href="about.html">About</a></li>
+    </ul>
+
+ 	<div class="jumbotron" style="background: url(images/handsbackground.jpg)">
+      <div class="container">
+        <h1 style="color: #31832D; font-weight: bold">Artists</h1>
+      </div>
+ 	</div>
+
+	<!-- Table Script using DataTable -->
+	<script>
+	$(document).ready(function(){
+    $('#customtable').dataTable({
+	  "pageLength": 3,
+	  "searching": false,
+	  "bLengthChange": false
+	  });
+	});
+	</script>
+
+	<div class="table-container">
+      <table id="customtable" class="table table-striped">
+        <thead>
+          <tr>
+            <th></th>
+            <th>Artist</th>
+            <th># of Sets</th>
+			<th>Most Recent Concert</th>
+	        <th>Origin</th>
+            <th>Members</th>
+            <th>Genre</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><a href="https://en.wikipedia.org/wiki/Anderson_Paak"><img src =http://www.andersonpaak.com/home/images/AP-logo.png style="max-width:75px; max-height:50px"></img></a></td>
+            <td><a href="/artists/artist-Anderson_Paak.html">Anderson Paak</a></td>
+            <td>132</td>
+            <td>24K Magic World Tour - Stade Pierre-Mauroy, Villeneuve-d'Ascq, France</td>
+            <td>Vicenza, Veneto, Italy</td>
+            <td>Anderson Paak</td>
+            <td>Hip Hop, R&B, Funk, Soul</td>
+          </tr>
+          <tr>
+            <td><a href="https://en.wikipedia.org/wiki/Coldplay"><img src =http://logonoid.com/images/coldplay-logo.png style="max-width:75px; max-height:50px"></img></a></td>
+            <td><a href="/artists/artist-Coldplay.html">Coldplay</a></td>
+            <td>1147</td>
+            <td>BRIT Awards 2017</td>
+            <td>London, England</td>
+            <td>Chris Martin, Jonny Buckland, Guy Berryman, Will Champion</td>
+            <td>Alternative Rock</td>
+          </tr>
+          <tr>
+            <td><a href="https://en.wikipedia.org/wiki/Denzel_Curry"><img src =https://yt3.ggpht.com/-bY3crBSHutU/AAAAAAAAAAI/AAAAAAAAAAA/5US22tQS1ow/s900-c-k-no-mo-rj-c0xffffff/photo.jpg style="max-width:75px; max-height:50px"></img></a></td>
+            <td><a href="/artists/artist-Denzel_Curry.html">Denzel Curry</a></td>
+            <td>29</td>
+            <td>SXSW 2017</td>
+            <td>Carol City, Florida, United States</td>
+            <td>Denzel Rae Don Curry</td>
+            <td>Hip Hop, Trap, Cloud Rap</td>
+          </tr>
+          <tr>
+            <td><a href="https://en.wikipedia.org/wiki/Kendrick_Lamar"><img src =http://officialpsds.com/images/thumbs/Kendrick-Lamar-Logo-psd106301.png style="max-width:75px; max-height:50px"></img></a></td>
+            <td><a href="/artists/artist-Kendrick_Lamar.html">Kendrick Lamar</a></td>
+            <td>321</td>
+            <td>Kendrick Lamar at Music Hall of Williamsburg, Brooklyn, NY, USA</td>
+            <td>Compton, California, US</td>
+            <td>Kendrick Lamar Duckworth</td>
+            <td>Hip Hop</td>
+          </tr>
+		  <tr>
+            <td><a href="https://en.wikipedia.org/wiki/Metallica"><img src =https://bandlogos.files.wordpress.com/2011/08/metallica_logo.jpg style="max-width:75px; max-height:50px"></img></a></td>
+			<td><a href="/artists/artist-Metallica.html">Metallica</a></td>
+			<td>1898</td>
+			<td>Foro Sol, Mexico City, Mexico</td>
+			<td>San Rafael, California</td>
+			<td>James Hetfield, Lars Ulrich, Kirk Hammett, Robert Trujillo</td>
+			<td>Heavy Metal</td>
+		  </tr>
+		  <tr>
+            <td><a href="https://en.wikipedia.org/wiki/Radiohead"><img src =http://pre01.deviantart.net/a414/th/pre/f/2009/015/9/8/radiohead_bear_logo_black_by_shinji87.png style="max-width:75px; max-height:50px"></img></a></td>
+			<td><a href="/artists/artist-Radiohead.html">Radiohead</a></td>
+			<td>1091</td>
+			<td>ACL 2016</td>
+			<td>Abingdon, England</td>
+			<td>Thom Yorke, Jonny Greenwood, Colin Greenwood, Ed O'Brien, Phil Selway</td>
+			<td>Alternative Rock</td>
+		  </tr>
+		  
+		 </tbody>
+</body>
+</html>
