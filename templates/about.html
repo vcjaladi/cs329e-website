@@ -10,11 +10,11 @@
 </head>
 <body>
     <ul>
-        <li><a href="templates/index.html">Home</a></li>
-        <li><a href="templates/artists.html">Artists</a></li>
-        <li><a href="templates/venues.html">Venues</a></li>
-        <li><a href="templates/sets.html">Sets</a></li>
-        <li style="float:right"><a class="active" href="templates/about.html">About</a></li>
+        <li><a href={{ url_for('index') }}>Home</a></li>
+        <li><a href={{ url_for('artists') }}>Artists</a></li>
+        <li><a href={{ url_for('venues') }}>Venues</a></li>
+        <li><a href={{ url_for('sets') }}>Sets</a></li>
+        <li style="float:right"><a class="active" href={{ url_for('about') }}>About</a></li>
     </ul>
 
     <section class="jumbotron text-center" style="background: url(static/images/handsbackground.jpg)">
