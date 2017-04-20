@@ -57,6 +57,12 @@ li {
     float: left
 }
 
+.specimg {
+    max-height: 550px;
+    max-width: 980px;
+}
+
+
 li a {
     display: block;
     color: white;
