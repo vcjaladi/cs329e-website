@@ -8,11 +8,11 @@
 </head>
 <body>
 	<ul>
-		<li><a href="templates/index.html">Home</a></li>
-		<li><a class="active" href="templates/artists.html">Artists</a></li>
-		<li><a href="templates/venues.html">Venues</a></li>
-		<li><a href="templates/sets.html">Sets</a></li>
-		<li style="float:right"><a href="templates/about.html">About</a></li>
+		<li><a href={{ url_for('index') }}>Home</a></li>
+		<li><a class="active" href={{ url_for('artists') }}>Artists</a></li>
+		<li><a href={{ url_for('venues') }}>Venues</a></li>
+		<li><a href={{ url_for('sets') }}>Sets</a></li>
+		<li style="float:right"><a href={{ url_for('about') }}>About</a></li>
 	</ul>
 
     <center><h2>Radiohead</h2></center>
@@ -35,11 +35,11 @@
     <br>
     Sets Played:
     <br>
-    <a href="templates/set-Radiohead_Worth_Farm_2011.html">Radiohead at Glastonbury 2011</a>
+    <a href={{ url_for('radiohead_worth') }}>Radiohead at Glastonbury 2011</a>
     <br>
-    <a href="templates/set-Radiohead_MSG_2016.html">Radiohead at Madison Square Garden 2016</a>
+    <a href={{ url_for('radiohead_msg') }}>Radiohead at Madison Square Garden 2016</a>
     <br>
-    <a href="templates/set-Radiohead_ACL_2016.html">Radiohead at ACL 2016</a>
+    <a href={{ url_for('radiohead_acl') }}>Radiohead at ACL 2016</a>
     </p>
     
 </body>
