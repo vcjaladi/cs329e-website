@@ -8,11 +8,11 @@
 </head>
 <body>
 	<ul>
-		<li><a href="templates/index.html">Home</a></li>
-		<li><a href="templates/artists.html">Artists</a></li>
-		<li><a class="active" href="templates/venues.html">Venues</a></li>
-		<li><a href="templates/sets.html">Sets</a></li>
-		<li style="float:right"><a href="templates/about.html">About</a></li>
+		<li><a href="{{ url_for('index') }}">Home</a></li>
+		<li><a href="{{ url_for('artists') }}">Artists</a></li>
+		<li><a class="active" href="{{ url_for('venues') }}">Venues</a></li>
+		<li><a href="{{ url_for('sets') }}">Sets</a></li>
+		<li style="float:right"><a href="{{ url_for('about') }}">About</a></li>
 	</ul>
 
     <center><h2>Austin City Limits</h2></center>
@@ -27,9 +27,9 @@
     <br><b># of Sets Played:</b> 1,589
     <br>
     <h3>Sets That Been Have Played at ACL:</h3>
-    <a href="templates/set-Kendrick_ACL_2016.html">Kendrick - 2016</a>
-    <a href="templates/set-Coldplay_ACL_2011.html">Coldplay - 2011</a>
-    <a href="templates/set-Radiohead_ACL_2016.html">Radiohead - 2016</a>
+    <a href="{{ url_for('set-Kendrick_ACL_2016') }}">Kendrick - 2016</a>
+    <a href="{{ url_for('set-Coldplay_ACL_2011') }}">Coldplay - 2011</a>
+    <a href="{{ url_for('set-Radiohead_ACL_2016') }}">Radiohead - 2016</a>
 
     
 </body>
