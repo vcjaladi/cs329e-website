@@ -5,6 +5,8 @@
     <title>Venue - Stubbs BBQ</title>
     <link rel="stylesheet" type="text/css" href="static/css/styles.css">
 	<link rel="icon" href="static/images/logo.png">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" rel="stylesheet">
 </head>
 <body>
 	<ul>
@@ -15,21 +17,25 @@
 		<li style="float:right"><a href="{{ url_for('about') }}">About</a></li>
 	</ul>
 
-    <center><h2>Stubbs BBQ</h2></center>
+    <center><h2 class="featurette-heading" style="color:#78b654">Stubbs BBQ</h2></center>
     <center><img src="http://68.media.tumblr.com/85eb1aa60069d3ae0389e799be5b98fd/tumblr_inline_mu0bvua5Yz1qmsp18.jpg"></center>
-    <br>
-	<h3>About</h3>
-    <center><p>In 1968, he opened his first restaurant, “Stubb's Bar-B-Q” at 108 East Broadway in Lubbock. In the 1970s and early 1980s, the Sunday Night Jams held in his small restaurant hosted such musicians as Terry Allen, Johnny Cash, Joe Ely, Jimmie Dale Gilmore, Tom T. Hall, B.B. King, Willie Nelson, Jessie "Guitar" Taylor, George Thorogood, Stevie Ray Vaughan, and Muddy Waters. Regardless of who was playing, Stubb would get up on stage and sing "Summertime" before the evening was done.
+    <br><center><p class="lead">In 1968, he opened his first restaurant, “Stubb's Bar-B-Q” at 108 East Broadway in Lubbock. In the 1970s and early 1980s, the Sunday Night Jams held in his small restaurant hosted such musicians as Terry Allen, Johnny Cash, Joe Ely, Jimmie Dale Gilmore, Tom T. Hall, B.B. King, Willie Nelson, Jessie "Guitar" Taylor, George Thorogood, Stevie Ray Vaughan, and Muddy Waters. Regardless of who was playing, Stubb would get up on stage and sing "Summertime" before the evening was done.
 
+    <hr class="featurette-divider">
+                      <div class="row featurette">
+                          <h2 class="featurette-heading" style="color:#78b654">Details</h2>
+                          <p class="lead">
+                            <b>Location:</b> Austin, Texas, United States of America
+                            <br><br><b>Capacity:</b> 2,200
+                            <br><br><b>Event Sponsor:</b> Stubbs
+                            <br><br><b># of Sets Played:</b> 1,319
+                            <br><br>
+                            <b>Sets That Been Have Played in Stubbs:</b>
+                            <a href="{{ url_for('denzel_stubbs') }}">Denzel Curry - 2017</a>
 
-    <br><br><b>Location:</b> Austin, Texas, United States of America
-    <br><b>Capacity:</b> 2,200
-    <br><b>Event Sponsor:</b> Stubbs
-    <br><b># of Sets Played:</b> 1,319
-    <br>
-    <h3>Sets That Been Have Played in Stubbs:</h3>
-    <a href="{{ url_for('denzel_stubbs') }}">Denzel Curry - 2017</a>
+                      </div>
+    <hr class="featurette-divider">
 
-    
+    </center>
 </body>
 </html>

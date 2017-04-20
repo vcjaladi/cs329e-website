@@ -5,6 +5,8 @@
     <title>Venue - ACL</title>
     <link rel="stylesheet" type="text/css" href="static/css/styles.css">
 	<link rel="icon" href="static/images/logo.png">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" rel="stylesheet">
 </head>
 <body>
 	<ul>
@@ -15,22 +17,26 @@
 		<li style="float:right"><a href="{{ url_for('about') }}">About</a></li>
 	</ul>
 
-    <center><h2>Austin City Limits</h2></center>
+    <center><h2 class="featurette-heading" style="color:#78b654">Austin City Limits</h2></center>
     <center><img src="http://cdn.abclocal.go.com/content/ktrk/images/cms/697367_1280x720.jpg"></center>
-    <h3>About</h3>
-    <center><p>The Austin City Limits (ACL) Music Festival is an annual music festival held in Zilker Park in Austin, Texas on two consecutive three-day weekends. Inspired by the PBS concert series of the same name, the festival is produced by Austin-based company C3 Presents, which also produces Lollapalooza.[1] The reputation of the ACL television show helped contribute to the success of the first festival.
+    <br><center><p class="lead">The Austin City Limits (ACL) Music Festival is an annual music festival held in Zilker Park in Austin, Texas on two consecutive three-day weekends. Inspired by the PBS concert series of the same name, the festival is produced by Austin-based company C3 Presents, which also produces Lollapalooza.[1] The reputation of the ACL television show helped contribute to the success of the first festival.
+    </p>
 
-
-    <br><br><b>Location:</b> Austin, Texas, United States of America
-    <br><b>Capacity:</b> 450,800
-    <br><b>Event Sponsor:</b> C3
-    <br><b># of Sets Played:</b> 1,589
-    <br>
-    <h3>Sets That Been Have Played at ACL:</h3>
-    <a href="{{ url_for('kendrick_acl') }}">Kendrick - 2016</a>
-    <a href="{{ url_for('coldplay_acl') }}">Coldplay - 2011</a>
-    <a href="{{ url_for('radiohead_acl') }}">Radiohead - 2016</a>
-
-    
+    <hr class="featurette-divider">
+          <div class="row featurette">
+              <h2 class="featurette-heading" style="color:#78b654">Details</h2>
+              <p class="lead">
+                <b>Location:</b> Austin, Texas, United States of America
+                <br><br><b>Capacity:</b> 450,800
+                <br><br><b>Event Sponsor:</b> C3
+                <br><br><b># of Sets Played:</b> 1,589
+                <br><br>
+                <b>Sets That Been Have Played at ACL:</b>
+                <a href="{{ url_for('kendrick_acl') }}">Kendrick - 2016</a>
+                <a href="{{ url_for('coldplay_acl') }}">Coldplay - 2011</a>
+                <a href="{{ url_for('radiohead_acl') }}">Radiohead - 2016</a>
+          </div>
+      <hr class="featurette-divider">
+    </center>
 </body>
 </html>
