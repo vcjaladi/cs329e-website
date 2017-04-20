@@ -5,6 +5,8 @@
     <title>Artist - Anderson Paak</title>
     <link rel="stylesheet" type="text/css" href="static/css/styles.css">
 	<link rel="icon" href="static/images/logo.png">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" rel="stylesheet">
 </head>
 <body>
 	<ul>
@@ -15,28 +17,31 @@
 		<li style="float:right"><a href={{ url_for('about') }}>About</a></li>
 	</ul>
 
-    <center><h2>Anderson Paak</h2></center>
+    <center><h2 class="featurette-heading" style="color:#78b654">Anderson Paak</h2></center>
     <center><img src="https://i.ytimg.com/vi/ferZnZ0_rSM/maxresdefault.jpg"></center>
-    <center><p>Brandon Paak Anderson (born February 8, 1986), known professionally as Anderson .Paak, is an American singer, songwriter, rapper, drummer, and record producer from Oxnard, California. He released his debut album, O.B.E. Vol. 1 in 2012, under the pseudonym Breezy Lovejoy. He went on to release Venice in 2014, under his current moniker. Paak followed with Malibu, in 2016, which received a nomination for Best Urban Contemporary Album at the Grammy Awards.
+    <br><center><p class="lead">Brandon Paak Anderson (born February 8, 1986), known professionally as Anderson .Paak, is an American singer, songwriter, rapper, drummer, and record producer from Oxnard, California. He released his debut album, O.B.E. Vol. 1 in 2012, under the pseudonym Breezy Lovejoy. He went on to release Venice in 2014, under his current moniker. Paak followed with Malibu, in 2016, which received a nomination for Best Urban Contemporary Album at the Grammy Awards.
 
-    <br>
-    <br>
-    <h2>Details:</h2>
-    <br>
-    # of Sets Played: 132
-    <br>
-    Most Recent Concert: 24K Magic World Tour - The O2 Arena, London, England
-    <br>
-    Origin: Vicenza, Veneto, Italy
-    <br>
-    Members: Brandon Paak Anderson
-    <br>
-    Genre: Hip Hop, R&B, Funk, Soul
-    <br>
-    Sets Played:
-    <br>
-    <a href={{ url_for('anderson_staples') }}>Anderson Paak Grammy's at Staples</a>
-    </p></center>
+    <hr class="featurette-divider">
+      <div class="row featurette">
+          <h2 class="featurette-heading" style="color:#78b654">Details</h2>
+            <p class="lead">
+                <b># of Sets Played:</b> 132
+            <br><br>
+                <b>Most Recent Concert:</b> 24K Magic World Tour - The O2 Arena, London, England
+            <br><br>
+                <b>Origin:</b> Vicenza, Veneto, Italy
+            <br><br>
+                <b>Members:</b> Brandon Paak Anderson
+            <br><br>
+                <b>Genre:</b> Hip Hop, R&B, Funk, Soul
+            <br><br>
+                <b>Sets Played:</b>
+            <br>
+            <a href={{ url_for('anderson_staples') }}>Anderson Paak Grammy's at Staples</a>
+            </p>
+      </div>
+
+      <hr class="featurette-divider">
     
 </body>
 </html>

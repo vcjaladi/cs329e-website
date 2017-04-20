@@ -5,6 +5,9 @@
     <title>Artist - Coldplay</title>
     <link rel="stylesheet" type="text/css" href="static/css/styles.css">
 	<link rel="icon" href="static/images/logo.png">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" rel="stylesheet">
+
 </head>
 <body>
 	<ul>
@@ -15,34 +18,36 @@
 		<li style="float:right"><a href={{ url_for('about') }}>About</a></li>
 	</ul>
 
-    <center><h2>Coldplay</h2></center>
+    <center><h2 class="featurette-heading" style="color:#78b654">Coldplay</h2></center>
     <center><img src="https://abullseyeview.s3.amazonaws.com/wp-content/uploads/2014/03/Screen-Shot-2014-03-20-at-10.23.34-AM.jpg?preset=320w"></center>
-    <center><p>Coldplay are a British rock band formed in 1996 by lead vocalist and keyboardist Chris Martin and lead guitarist Jonny Buckland at University College London (UCL). After they formed under the name Pectoralz, Guy Berryman joined the group as bassist and they changed their name to Starfish. Will Champion joined as drummer and backing vocalist, completing the performing line-up. Creative Director Phil Harvey is often referred to as the official fifth member by the band. The band renamed themselves "Coldplay" in 1998, before recording and releasing three EPs: Safety in 1998, Brothers & Sisters as a single in 1999, and The Blue Room in the same year. The Blue Room was their first release on a major label, after signing to Parlophone.
+    <br><center><p class="lead">Coldplay are a British rock band formed in 1996 by lead vocalist and keyboardist Chris Martin and lead guitarist Jonny Buckland at University College London (UCL). After they formed under the name Pectoralz, Guy Berryman joined the group as bassist and they changed their name to Starfish. Will Champion joined as drummer and backing vocalist, completing the performing line-up. Creative Director Phil Harvey is often referred to as the official fifth member by the band. The band renamed themselves "Coldplay" in 1998, before recording and releasing three EPs: Safety in 1998, Brothers & Sisters as a single in 1999, and The Blue Room in the same year. The Blue Room was their first release on a major label, after signing to Parlophone.
 
-    <br>
-    <br>
-    <h2>Details:</h2>
-    <br>
-    # of Sets Played: 1147
-    <br>
-    Most Recent Concert: Coldplay at Tokyo Dome, Tokyo, Japan
-    <br>
-    Origin: London, England
-    <br>
-    Members: Chris Martin, Jonny Buckland, Guy Berryman, Will Champion
-    <br>
-    Genre: Alternative Rock
-    <br>
-    Sets Played:
-    <br>
-    <a href={{ url_for('coldplay_glastonbury') }}>Coldplay at Glastonbury 2016</a>
-    <br>
-    <a href={{ url_for('coldplay_rio') }}>Coldplay at Rock in Rio 2011</a>
-    <br>
-    <a href={{ url_for('coldplay_t') }}>Coldplay at T in the Park 2011</a>
-    <br>
-    <a href={{ url_for('coldplay_acl') }}>Coldplay at ACL 2011</a>
-    </p></center>
-    
+    hr class="featurette-divider">
+      <div class="row featurette">
+          <h2 class="featurette-heading" style="color:#78b654">Details</h2>
+          <p class="lead">
+            <b># of Sets Played:</b> 1147
+            <br><br>
+            <b>Most Recent Concert:</b> Coldplay at Tokyo Dome, Tokyo, Japan
+            <br><br>
+            <b>Origin:</b> London, England
+            <br><br>
+            <b>Members:</b> Chris Martin, Jonny Buckland, Guy Berryman, Will Champion
+            <br><br>
+            <b>Genre:</b> Alternative Rock
+            <br><br>
+            <b>Sets Played:</b>
+            <br>
+            <a href={{ url_for('coldplay_glastonbury') }}>Coldplay at Glastonbury 2016</a>
+            <br>
+            <a href={{ url_for('coldplay_rio') }}>Coldplay at Rock in Rio 2011</a>
+            <br>
+            <a href={{ url_for('coldplay_t') }}>Coldplay at T in the Park 2011</a>
+            <br>
+            <a href={{ url_for('coldplay_acl') }}>Coldplay at ACL 2011</a>
+          </p>
+      </div>
+
+      <hr class="featurette-divider">
 </body>
 </html>
