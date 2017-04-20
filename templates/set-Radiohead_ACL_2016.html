@@ -7,21 +7,21 @@
 	<link rel="icon" href="../images/logo.png">
 </head>
 <body>
-	<ul>
-		<li><a href="../index.html">Home</a></li>
-		<li><a href="../artists.html">Artists</a></li>
-		<li><a href="../venues.html">Venues</a></li>
-		<li><a class="active" href="../sets.html">Sets</a></li>
-		<li style="float:right"><a href="../about.html">About</a></li>
-	</ul>
+    <ul>
+        <li><a href={{ url_for('index') }}>Home</a></li>
+        <li><a href={{ url_for('artists') }}>Artists</a></li>
+        <li><a href={{ url_for('venues') }}>Venues</a></li>
+        <li><a class="active" href={{ url_for('sets') }}>Sets</a></li>
+        <li style="float:right"><a href={{ url_for('about') }}>About</a></li>
+    </ul>
 
     <h2>Radiohead at ACL 2016</h2>
     <img src="https://az616578.vo.msecnd.net/files/responsive/embedded/any/desktop/2016/05/13/635986957107030393568645979_radiohead1.jpeg">
     <h2>Details</h2>
-    <p><b>Artist:</b> <a href="../artists/artist-Radiohead.html">Radiohead</a>
+    <p><b>Artist:</b> <a href={{ url_for('artist_radiohead') }}>Radiohead</a>
     <br>
 	<br>
-    <b>Venue:</b> <a href="../venues/venue-acl.html">Austin City Limits</a>
+    <b>Venue:</b> <a href={{ url_for('venue_acl') }}>Austin City Limits</a>
     <br>
 	<br>
     <b>Song List:</b><br> 1. Burn the Witch<br> 2. Daydreaming<br> 3. Ful Stop<br> 4. My Iron Lung<br> 5. The National Anthem<br> 6. All I Need<br> 7. Pyramid Song<br> 8. No Surprises<br> 9. Bloom<br> 10. Identikit<br> 11. The Numbers<br> 12. Bodysnatchers<br> 13. The Gloaming<br> 14. Weird Fishes/Arpeggi<br> 15. Nude<br> 16. Everything in Its Right Place<br> 17. Idioteque<br><br><b>Encore:</b><br> 18. Let Down<br> 19. Present Tense<br> 20. Reckoner<br> 21. Paranoid Android<br> 22. There There<br> 23. Fake Plastic Trees<br>

@@ -20,11 +20,11 @@
 </head>
 <body>
     <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="artists.html">Artists</a></li>
-        <li><a href="venues.html">Venues</a></li>
-        <li><a class="active" href="sets.html">Sets</a></li>
-        <li style="float:right"><a href="about.html">About</a></li>
+        <li><a href={{ url_for('index') }}>Home</a></li>
+        <li><a href={{ url_for('artists') }}>Artists</a></li>
+        <li><a href={{ url_for('venues') }}>Venues</a></li>
+        <li><a class="active" href={{ url_for('sets') }}>Sets</a></li>
+        <li style="float:right"><a href={{ url_for('about') }}>About</a></li>
     </ul>
 
 	<div class="jumbotron" style="background: url(images/handsbackground.jpg)">
@@ -58,9 +58,9 @@
         </thead>
         <tbody>
             <tr>
-                <td><a href="/sets/set-Coldplay_Glastonbury_2016.html">Coldplay - 2016 - Worth Farm, Pilton, England</a></td>
-                <td><a href="/artists/artist-Coldplay.html">Coldplay</a></td>
-                <td><a href="/venues/venue - glastonbury.html">Glastonbury</a></td>
+                <td><a href={{ url_for('coldplay_glastonbury') }}>Coldplay - 2016 - Worth Farm, Pilton, England</a></td>
+                <td><a href={{ url_for('artist_coldplay') }}>Coldplay</a></td>
+                <td><a href={{ url_for('venue_glastonbury') }}>Glastonbury</a></td>
                 <td> <button type="button" onclick="show('id1');">Show Setlist</button>
 				<div id="id1" class="hidden">1. A Head Full of Dreams 2. Yellow 3. Every Teardrop Is a Waterfall 4. The Scientist 5. Birds 6. Paradise 7. Everglow 8. Clocks 9. Midnight 10. Charlie Brown 11. Hymm for the Weekend 12. Fix You 13. Boys That Sing 14. Viva la Vida 15. Adventure of a Lifetime ENCORE 16. To Love Somebody 17. Stayin' Alive 18. A Sky Full of Stars 19. Up&Up 20. My Way 21 Up&Up </div></td>
                 <td>6/26/2016</td>
@@ -71,9 +71,9 @@
             </tr>
 
             <tr>
-                <td><a href="/sets/set-Coldplay_Rock_in_Rio_2011.html">Coldplay - 2011 - Cidade do Rock, Rio de Janero, Brazil</a></td>
-                <td><a href="/artists/artist-Coldplay.html">Coldplay</a></td>
-                <td><a href="/venues/venue-rockinrio.html">Rock in Rio</a></td>
+                <td><a href={{ url_for('coldplay_rio') }}>Coldplay - 2011 - Cidade do Rock, Rio de Janero, Brazil</a></td>
+                <td><a href={{ url_for('artist_coldplay') }}>Coldplay</a></td>
+                <td><a href={{ url_for('venue_rio') }}>Rock in Rio</a></td>
                 <td><button type="button" onclick="show('id2');">Show Setlist</button>
 
 				<div id="id2" class="hidden">1. Mylo Xyloto 2. Hurts Like Heaven 3. Yellow 4. In My Place 5. Major Minus 6. Paradise 7. Lost! 8. Violet Hill 9. God Put a Smile Upon Your Face 10. The Scientist 11. Us Against the World 12. Politik 13. Viva la Vida 14. Charlie Brown 15. Life is for Living ENCORE 16: Clocks 17. Fix You 18. Every Teardrop is a Waterfall </div></td>
@@ -85,9 +85,9 @@
             </tr>
 
             <tr>
-                <td><a href="/sets/set-Coldplay_T_in_the_Park_2011.html">Coldplay - 2011 - Balado, Kinross, Scotland</a></td>
-                <td><a href="/artists/artist-Coldplay.hmtl">Coldplay</a></td>
-                <td><a href="/venues/venue-tinthepark.html">T in the Park</a></td>
+                <td><a href={{ url_for('coldplay_t') }}>Coldplay - 2011 - Balado, Kinross, Scotland</a></td>
+                <td><a href={{ url_for('artist_coldplay') }}>Coldplay</a></td>
+                <td><a href={{ url_for('venue_t') }}>T in the Park</a></td>
                 <td><button type="button" onclick="show('id3');">Show Setlist</button>
 				<div id="id3" class="hidden">1. Mylo Xyloto 2. Hurts Like Heaven 3. Yellow 4. In My Place 5. Major Minus 6. Lost! 7. The Scientist 8. Shiver 9. Violet Hill 10. God Put a Smile Upon Your Face 11. Everything's Not Lost 12. Us Against the World 13. Politik 14. Viva la Vida 15. Charlie Brown 16. Life Is For Living 17. Clocks 18. Fix You 19. Every Teardrop is a Waterfall </div></td>
                 <td>7/11/2011</td>
@@ -98,9 +98,9 @@
             </tr>
 
             <tr>
-                <td><a href="/sets/set-Metallica_Rock_in_Rio_2015.html">Metallica - 2015 - Rio De Janeiro, Brazil</a></td>
-                <td><a href="artists/artist-Metallica.html">Metallica</a></td>
-                <td><a href="venues/venue-rockinrio.html">Rock in Rio</a></td>
+                <td><a href={{ url_for('metallica_rio') }}>Metallica - 2015 - Rio De Janeiro, Brazil</a></td>
+                <td><a href={{ url_for('artist_metallica') }}>Metallica</a></td>
+                <td><a href={{ url_for('venue_rio') }}>Rock in Rio</a></td>
                 <td><button type="button" onclick="show('id4');">Show Setlist</button>
 				<div id="id4" class="hidden">1. Fuel 2. Master of Puppets 3. King Nothing 4. Disposable Heroes 5. Welcome Home (Sanitarium) 6. Lords of Summer 7. The Unforgiving 8. Cyanide 9. Sad but True 10. Turn the Page 11. One 12. For Whom the Bells Tolls 13. Blackened 14. Nothing Else Matters 15. Enter Sandman 16. Whiskey in the Jar 17. Creeping Death 18. Seek & Destroy</div></td>
                 <td>5/24/2015</td>
@@ -110,9 +110,9 @@
 				</td>
             </tr>
             <tr>
-                <td><a href="/sets/set-Radiohead_MSG_2016.html">Radiohead - 2016 - Madison Square Garden</a></td>
-                <td><a href="/artists/artist-Radiohead.html">Radiohead</a></td>
-                <td><a href="/venues/venue-msg.html">Madison Square Garden</a></td>
+                <td><a href={{ url_for('radiohead_msg') }}>Radiohead - 2016 - Madison Square Garden</a></td>
+                <td><a href={{ url_for('artist_radiohead') }}>Radiohead</a></td>
+                <td><a href={{ url_for('venue_msg') }}>Madison Square Garden</a></td>
                 <td><button type="button" onclick="show('id5');">Show Setlist</button>
 				<div id="id5" class="hidden">1. Burn the Witch 2. Daydreaming 3. Decks Dark 4. Desert Island Disk 5. Ful Stop 6. My Iron Lung 7. Climbing Up the Walls 8. Morning Mr. Magpie 9. Pyramid Song 10. Bloom 11. Identikit 12. The Numbers 13. The Gloaming 14. Weird Fishes/Arpeggi 15. Everything in Its Place 16. Idioteque 17. There There 18. Give Up the Ghost 19. Let Down 20. Present Tense 21. Planet Telex 22. Karma Police 23. Reckoner 24. Creep</div></td>
                 <td>7/27/16</td>
@@ -123,9 +123,9 @@
             </tr>
 
             <tr>
-                <td><a href="/sets/set-Radiohead_Worth Farm_2011.html">Radiohead - 2011 - Worth Farm, Pilton, England</a></td>
-                <td><a href="/artists/artist-Radiohead.html">Radiohead</a></td>
-                <td><a href="/venues/venue - glastonbury.html">Glastonbury</a></td>
+                <td><a href={{ url_for('radiohead_worth') }}>Radiohead - 2011 - Worth Farm, Pilton, England</a></td>
+                <td><a href={{ url_for('artist_radiohead') }}>Radiohead</a></td>
+                <td><a href={{ url_for('venue_glastonbury') }}>Glastonbury</a></td>
                 <td><button type="button" onclick="show('id6');">Show Setlist</button>
 				<div id="id6" class="hidden">1. Lotus Flower 2. 15 Step 3. Morning Mr. Magpie 4. Little by Little 5. All I Need 6. Separator 7. Give Up the Ghost 8. Weird Fishes/Arpeggi 9. Staircase 10. I Might Be Wrong 11. Bloom 12. Reckoner 13. The Daily Mail 14. Street Spirit (Fade Out) </div></td>
                 <td>6/24/2011</td>
@@ -136,9 +136,9 @@
             </tr>
 			
 			<tr>
-                <td><a href="/sets/set-Kendrick_ACL_2016.html">Kendrick Lamar - 2016 - Zilker Park, Austin, Texas</a></td>
-                <td><a href="/artists/artist-Kendrick.html">Kendrick Lamar</a></td>
-                <td><a href="/venues/venue-acl.html">Austin City Limits</a></td>
+                <td><a href={{ url_for('kendrick_acl') }}>Kendrick Lamar - 2016 - Zilker Park, Austin, Texas</a></td>
+                <td><a href={{ url_for('artist_kendrick_lamar') }}>Kendrick Lamar</a></td>
+                <td><a href={{ url_for('venue_acl') }}>Austin City Limits</a></td>
                 <td><button type="button" onclick="show('id7');">Show Setlist</button>
 				<div id="id7" class="hidden"> 1. Untitled 07 | 2014 - 2016 2. Institutionalized 3. Backseat Freestyle 4. m.A.A.d city 5. Swimming Pools 6. Collard Greens 7. THat Part 8. These Walls 9. For Sale? 10. Complexion 11. Bitch, Don't Kill My Vibe 12. Money Trees 13. m.A.A.d city 14. King Kunta 15. i 16. For Free? 17. Alright 18. A.D.H.D </div></td>
                 <td>10/1/2016</td>
@@ -149,9 +149,9 @@
             </tr>
 			
 			<tr>
-                <td><a href="/sets/set-Coldplay_ACL_2011.html">Coldplay - 2011 - Zilker Park, Austin, Texas</a></td>
-                <td><a href="/artists/artist-Coldplay.html">Coldplay</a></td>
-                <td><a href="/venues/venue-acl.html">Austin City Limits</a></td>
+                <td><a href={{ url_for('coldplay_acl') }}>Coldplay - 2011 - Zilker Park, Austin, Texas</a></td>
+                <td><a href={{ url_for('artist_coldplay') }}>Coldplay</a></td>
+                <td><a href={{ url_for('venue_acl') }}>Austin City Limits</a></td>
                 <td><button type="button" onclick="show('id8');">Show Setlist</button>
 				<div id="id8" class="hidden"> 1. Mylo Xyloto 2. Hurts Like Heaven 3. Yellow 4. In My Place 5. Major Minus 6. Lost! 7. The Scientist 8. Violet Hill 9. God Put a Smile Upon Your Face 10. Up in Flames 11. Us Against the World 12. Politik 13. Viva la Vida 14. Charlie Brown 15. Paradise 16. Clocks 18. Fix You 19. Every Teardrop is a Waterfall </div></td>
                 <td>7/16/2011</td>
@@ -162,9 +162,9 @@
             </tr>
 			
 			<tr>
-                <td><a href="/sets/set-Radiohead_ACL_2016.html">Radiohead - 2016 - Zilker Park, Austin, Texas</a></td>
-                <td><a href="/artists/artist-Radiohead.html">Radiohead</a></td>
-                <td><a href="/venues/venue-acl.html">Austin City Limits</a></td>
+                <td><a href={{ url_for('radiohead_acl') }}>Radiohead - 2016 - Zilker Park, Austin, Texas</a></td>
+                <td><a href={{ url_for('artist_radiohead') }}>Radiohead</a></td>
+                <td><a href={{ url_for('venue_acl') }}>Austin City Limits</a></td>
                 <td><button type="button" onclick="show('id9');">Show Setlist</button>
 				<div id="id9" class="hidden"> 1. Burn the Witch 2. Daydreaming 3. Ful Stop 4. My Iron Lung 5. The National Anthem 6. All I Need 7. Pyramid Song 8. No Surprises 9. Bloom 10. Identikit 11. The Numbers 12. Bodysnatchers 13. The Gloaming 14. Weird Fishes/Arpeggi 15. Nude 16. Everything in Its Right Place 17. Idioteque 18. Let Down 19. Present Tense 20. Reckoner 21. Paranoid Android 22. There There 23. Fake Plastic Trees </div></td>
                 <td>10/7/2016</td>
@@ -175,9 +175,9 @@
             </tr>
 			
 			<tr>
-                <td><a href="/sets/set-Denzel_Stubbs_2017.html">Denzel Curry - 2017 - Stubbs BBQ, Austin, Texas</a></td>
-                <td><a href="/artists/artist-Denzel_Curry.html">Denzel Curry</a></td>
-                <td><a href="/venues/venue-stubbs.html">Stubbs BBQ</a></td>
+                <td><a href={{ url_for('denzel_stubbs') }}>Denzel Curry - 2017 - Stubbs BBQ, Austin, Texas</a></td>
+                <td><a href={{ url_for('artist_denzel_curry') }}>Denzel Curry</a></td>
+                <td><a href={{ url_for('venue_stubbs') }}>Stubbs BBQ</a></td>
                 <td><button type="button" onclick="show('id10');">Show Setlist</button>
 				<div id="id10" class="hidden"> 1. ULT 2. Gook 3. Parents 4. Ice Age 5. Flying Nimbus 6. Dark & Violent 7. Chill Bill Remix 8. Put It on Me 9. This Life 10. Knotty Head 11. Threatz 12. Ultimate </div></td>
                 <td>3/16/2017</td>
@@ -188,9 +188,9 @@
             </tr>
 			
 			<tr>
-                <td><a href="/sets/set-Anderson_Staples_2017.html">Anderson Paak - 2017 - Staples Center, Los Angeles, Calafornia</a></td>
-                <td><a href="/artists/artist-Anderson_Paak.html">Anderson Paak</a></td>
-                <td><a href="/venues/venue-staples.html">Staples Center</a></td>
+                <td><a href={{ url_for('anderson_staples') }}>Anderson Paak - 2017 - Staples Center, Los Angeles, Calafornia</a></td>
+                <td><a href={{ url_for('artist_anderson_paak') }}>Anderson Paak</a></td>
+                <td><a href={{ url_for('venue_staples') }}>Staples Center</a></td>
                 <td><button type="button" onclick="show('id11');">Show Setlist</button>
 				<div id="id11" class="hidden"> 1. Come Down 2. Milk n' Honey 3. Glowed Up 4. The Season / Carry Me 5. Put Me Thru 6. Heart Don't Stand a Chance 7. Room in Here 8. The Waters 9. Suede 10. Link Up 11. Lyk Dis 12. Dang! 13. Am I Wrong 14. Lite Weight 15. The Bird 16. Silicon Valley 17. Luh You 18. Miss Right 19. The Dreamer </div></td>
                 <td>2/12/2017</td>

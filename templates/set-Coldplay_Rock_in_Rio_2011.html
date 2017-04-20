@@ -7,21 +7,21 @@
 	<link rel="icon" href="../images/logo.png">
 </head>
 <body>
-	<ul>
-		<li><a href="../index.html">Home</a></li>
-		<li><a href="../artists.html">Artists</a></li>
-		<li><a href="../venues.html">Venues</a></li>
-		<li><a class="active" href="../sets.html">Sets</a></li>
-		<li style="float:right"><a href="../about.html">About</a></li>
-	</ul>
+    <ul>
+        <li><a href={{ url_for('index') }}>Home</a></li>
+        <li><a href={{ url_for('artists') }}>Artists</a></li>
+        <li><a href={{ url_for('venues') }}>Venues</a></li>
+        <li><a class="active" href={{ url_for('sets') }}>Sets</a></li>
+        <li style="float:right"><a href={{ url_for('about') }}>About</a></li>
+    </ul>
 
     <h2>Coldplay at Rock in Rio 2011</h2>
     <img src="https://i.ytimg.com/vi/ad3GbjeGW1g/maxresdefault.jpg">
 	<h2>Details</h2>
-    <p><b>Artist: </b><a href="../artists/artist-Coldplay.html">Coldplay</a>
+    <p><b>Artist: </b><a href={{ url_for('artist_coldplay') }}>Coldplay</a>
     <br>
 	<br>
-    <b>Venue: </b><a href="../venues/venue-rockinrio.html">Rio in Rio</a>
+    <b>Venue: </b><a href={{ url_for('venue_rio') }}>Rio in Rio</a>
     <br>
 	<br>
     <b>Song List:</b><br> 1. Mylo Xyloto<br> 2. Hurts Like Heaven<br> 3. Yellow<br> 4. In My Place<br> 5. Major Minus<br> 6. Paradise<br> 7. Lost!<br> 8. Violet Hill<br> 9. God Put a Smile Upon Your Face<br> 10. The Scientist<br> 11. Us Against the World<br> 12. Politik<br> 13. Viva la Vida<br> 14. Charlie Brown<br> 15. Life is for Living<br><br> <b>ENCORE</b><br> 16: Clocks<br> 17. Fix You<br> 18. Every Teardrop is a Waterfall<br>

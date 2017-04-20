@@ -7,21 +7,21 @@
 	<link rel="icon" href="../images/logo.png">
 </head>
 <body>
-	<ul>
-		<li><a href="../index.html">Home</a></li>
-		<li><a href="../artists.html">Artists</a></li>
-		<li><a href="../venues.html">Venues</a></li>
-		<li><a class="active" href="../sets.html">Sets</a></li>
-		<li style="float:right"><a href="../about.html">About</a></li>
-	</ul>
+    <ul>
+        <li><a href={{ url_for('index') }}>Home</a></li>
+        <li><a href={{ url_for('artists') }}>Artists</a></li>
+        <li><a href={{ url_for('venues') }}>Venues</a></li>
+        <li><a class="active" href={{ url_for('sets') }}>Sets</a></li>
+        <li style="float:right"><a href={{ url_for('about') }}>About</a></li>
+    </ul>
 
     <h2>Denzel Curry at Stubb's 2016</h2>
     <img src="https://massappeal.com/wp-content/uploads/denzel1-1100x733.jpg">
     <h2>Details</h2>
-    <p><b>Artist:</b> <a href="../artists/artist-Denzel_Curry.html">Denzel Curry</a>
+    <p><b>Artist:</b> <a href={{ url_for('artist_denzel_curry') }}>Denzel Curry</a>
     <br>
     <br>
-    <b>Venue:</b> <a href="../venues/venue-stubbs.html">Stubb's</a>
+    <b>Venue:</b> <a href={{ url_for('denzel_stubbs') }}>Stubb's</a>
     <br>
 	<br>
     <b>Song List:</b><br> 1. ULT<br> 2. Gook<br> 3. Parents<br> 4. Ice Age<br> 5. Flying Nimbus<br> 6. Dark & Violent<br> 7. Chill Bill Remix<br> 8. Put It on Me<br> 9. This Life<br> 10. Knotty Head<br> 11. Threatz<br> 12. Ultimate<br>

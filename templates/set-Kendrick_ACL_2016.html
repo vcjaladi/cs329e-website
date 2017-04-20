@@ -7,21 +7,21 @@
 	<link rel="icon" href="../images/logo.png">
 </head>
 <body>
-	<ul>
-		<li><a href="../index.html">Home</a></li>
-		<li><a href="../artists.html">Artists</a></li>
-		<li><a href="../venues.html">Venues</a></li>
-		<li><a class="active" href="../sets.html">Sets</a></li>
-		<li style="float:right"><a href="../about.html">About</a></li>
-	</ul>
+    <ul>
+        <li><a href={{ url_for('index') }}>Home</a></li>
+        <li><a href={{ url_for('artists') }}>Artists</a></li>
+        <li><a href={{ url_for('venues') }}>Venues</a></li>
+        <li><a class="active" href={{ url_for('sets') }}>Sets</a></li>
+        <li style="float:right"><a href={{ url_for('about') }}>About</a></li>
+    </ul>
 
     <h2>Kendrick Lamar at ACL 2016</h2>
     <img src="http://www.billboard.com/files/media/Kendrick-Lamar-acl-fest-2016-billboard-1548.jpg">
     <h2>Details</h2>
-    <p><b>Artist:</b> <a href="../artists/artist-Kendrick_Lamar.html">Kendrick Lamar</a>
+    <p><b>Artist:</b> <a href={{ url_for('artist_kendrick_lamar') }}>Kendrick Lamar</a>
     <br>
     <br>
-    <b>Venue:</b> <a href="../venues/venue-acl.html">Austin City Limits</a>
+    <b>Venue:</b> <a href={{ url_for('venue_acl') }}>Austin City Limits</a>
     <br>
 	<br>
     <b>Song List:</b><br> 1. Untitled 07 | 2014 - 2016<br> 2. Institutionalized<br> 3. Backseat Freestyle<br> 4. m.A.A.d city<br> 5. Swimming Pools<br> 6. Collard Greens<br> 7. THat Part<br> 8. These Walls<br> 9. For Sale?<br> 10. Complexion<br> 11. Bitch, Don't Kill My Vibe<br> 12. Money Trees<br> 13. m.A.A.d city<br> 14. King Kunta<br> 15. i<br> 16. For Free?<br> 17. Alright<br> 18. A.D.H.D<br>

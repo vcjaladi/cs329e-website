@@ -7,21 +7,21 @@
 	<link rel="icon" href="../images/logo.png">
 </head>
 <body>
-	<ul>
-		<li><a href="../index.html">Home</a></li>
-		<li><a href="../artists.html">Artists</a></li>
-		<li><a href="../venues.html">Venues</a></li>
-		<li><a class="active" href="../sets.html">Sets</a></li>
-		<li style="float:right"><a href="../about.html">About</a></li>
-	</ul>
+    <ul>
+        <li><a href={{ url_for('index') }}>Home</a></li>
+        <li><a href={{ url_for('artists') }}>Artists</a></li>
+        <li><a href={{ url_for('venues') }}>Venues</a></li>
+        <li><a class="active" href={{ url_for('sets') }}>Sets</a></li>
+        <li style="float:right"><a href={{ url_for('about') }}>About</a></li>
+    </ul>
 
     <h2>Metallica at Rock in Rio 2015</h2>
     <img src="http://static1.purebreak.com.br/articles/1/11/82/1/@/58184-banda-metallica-e-confirmada-como-620x0-2.jpg">
     <h2>Details</h2>
-    <p><b>Artist:</b> <a href="../artists/artist-metallica.html">Metallica</a>
+    <p><b>Artist:</b> <a href={{ url_for('artist_metallica') }}>Metallica</a>
     <br>
 	<br>
-    <b>Venue:</b> <a href="../venues/venue-rockinrio.html">Rock in Rio</a>
+    <b>Venue:</b> <a href={{ url_for('venue_rio') }}>Rock in Rio</a>
     <br>
 	<br>
     <b>Song List:</b><br> 1. Fuel<br> 2. Master of Puppets<br> 3. King Nothing<br> 4. Disposable Heroes<br> 5. Welcome Home (Sanitarium)<br> 6. Lords of Summer<br> 7. The Unforgiven<br> 8. Cyanide<br> 9. Sad but True<br> 10. Turn the Page<br> 11. One<br> 12. For Whom the Bell Tolls<br> 13. Blackened<br> 14. Nothing Else Matters<br> 15. Enter Sandman<br> 16. Whiskey in the Jar<br> 17. Creeping Death<br> 18. Seek & Destroy<br>
